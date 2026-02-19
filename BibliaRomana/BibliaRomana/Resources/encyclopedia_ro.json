@@ -1,0 +1,4103 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "adam",
+      "name": "Adam",
+      "aliases": [
+        "Primul om"
+      ],
+      "category": "person",
+      "subcategory": "patriarch",
+      "description": "Primul om creat de Dumnezeu din țărâna pământului, așașat în Grădina Edenului.",
+      "significance": "Reprezintă începutul omenirii și căderea în păcat prin neascultare.",
+      "relatedVerses": [
+        {
+          "book": "Facerea",
+          "chapter": 1,
+          "verse": 27
+        },
+        {
+          "book": "Facerea",
+          "chapter": 2,
+          "verse": 7
+        }
+      ],
+      "relatedEntries": [
+        "eva",
+        "creatia",
+        "caderea"
+      ],
+      "coordinates": null,
+      "timeline": "Începutul creației"
+    },
+    {
+      "id": "eva",
+      "name": "Eva",
+      "aliases": [
+        "Prima femeie"
+      ],
+      "category": "person",
+      "subcategory": "patriarch",
+      "description": "Prima femeie, creată din coasta lui Adam, mama tuturor celor vii.",
+      "significance": "Simbolizează rolul femeii în creație și ispitirea prin șarpe.",
+      "relatedVerses": [
+        {
+          "book": "Facerea",
+          "chapter": 2,
+          "verse": 22
+        },
+        {
+          "book": "Facerea",
+          "chapter": 3,
+          "verse": 6
+        }
+      ],
+      "relatedEntries": [
+        "adam",
+        "caderea"
+      ],
+      "coordinates": null,
+      "timeline": "Începutul creației"
+    },
+    {
+      "id": "noe",
+      "name": "Noe",
+      "aliases": [
+        "Noi"
+      ],
+      "category": "person",
+      "subcategory": "patriarch",
+      "description": "Patriarh drept care a construit Arca la porunca lui Dumnezeu pentru a supraviețui Potopului.",
+      "significance": "Simbol al ascultării de Dumnezeu și al legământului prin curcubeu.",
+      "relatedVerses": [
+        {
+          "book": "Facerea",
+          "chapter": 6,
+          "verse": 9
+        },
+        {
+          "book": "Facerea",
+          "chapter": 9,
+          "verse": 13
+        }
+      ],
+      "relatedEntries": [
+        "potopul",
+        "arca_lui_noe"
+      ],
+      "coordinates": null,
+      "timeline": "~2500 î.Hr."
+    },
+    {
+      "id": "avraam",
+      "name": "Avraam",
+      "aliases": [
+        "Avram",
+        "Abraham"
+      ],
+      "category": "person",
+      "subcategory": "patriarch",
+      "description": "Patriarhul poporului ales, chemat de Dumnezeu să părăsească Ur și să meargă în Canaan.",
+      "significance": "Tatăl credincioșilor, model de credință absolută în Dumnezeu.",
+      "relatedVerses": [
+        {
+          "book": "Facerea",
+          "chapter": 12,
+          "verse": 1
+        },
+        {
+          "book": "Facerea",
+          "chapter": 15,
+          "verse": 6
+        },
+        {
+          "book": "Facerea",
+          "chapter": 22,
+          "verse": 2
+        }
+      ],
+      "relatedEntries": [
+        "sara",
+        "isaac",
+        "lot",
+        "canaan",
+        "ur"
+      ],
+      "coordinates": null,
+      "timeline": "~2000 î.Hr."
+    },
+    {
+      "id": "sara",
+      "name": "Sara",
+      "aliases": [
+        "Sarai"
+      ],
+      "category": "person",
+      "subcategory": "patriarch",
+      "description": "Soția lui Avraam, care a născut pe Isaac la bătrânețe prin promisiunea lui Dumnezeu.",
+      "significance": "Simbol al credinței în promisiunile divine, chiar împotriva oricărei speranțe.",
+      "relatedVerses": [
+        {
+          "book": "Facerea",
+          "chapter": 17,
+          "verse": 15
+        },
+        {
+          "book": "Facerea",
+          "chapter": 21,
+          "verse": 2
+        }
+      ],
+      "relatedEntries": [
+        "avraam",
+        "isaac"
+      ],
+      "coordinates": null,
+      "timeline": "~2000 î.Hr."
+    },
+    {
+      "id": "isaac",
+      "name": "Isaac",
+      "aliases": [
+        "Isaak"
+      ],
+      "category": "person",
+      "subcategory": "patriarch",
+      "description": "Fiul lui Avraam și al Sarei, născut prin făgăduință dumnezeiască.",
+      "significance": "Prefigurare a jertfei lui Hristos prin episodul legării pe altar.",
+      "relatedVerses": [
+        {
+          "book": "Facerea",
+          "chapter": 21,
+          "verse": 3
+        },
+        {
+          "book": "Facerea",
+          "chapter": 22,
+          "verse": 9
+        }
+      ],
+      "relatedEntries": [
+        "avraam",
+        "sara",
+        "rebeca",
+        "iacov"
+      ],
+      "coordinates": null,
+      "timeline": "~1900 î.Hr."
+    },
+    {
+      "id": "rebeca",
+      "name": "Rebeca",
+      "aliases": [],
+      "category": "person",
+      "subcategory": "patriarch",
+      "description": "Soția lui Isaac, mama gemenilor Esau și Iacov.",
+      "significance": "A fost aleasă providențial și a influențat binecuvântarea lui Iacov.",
+      "relatedVerses": [
+        {
+          "book": "Facerea",
+          "chapter": 24,
+          "verse": 67
+        },
+        {
+          "book": "Facerea",
+          "chapter": 27,
+          "verse": 13
+        }
+      ],
+      "relatedEntries": [
+        "isaac",
+        "iacov"
+      ],
+      "coordinates": null,
+      "timeline": "~1850 î.Hr."
+    },
+    {
+      "id": "iacov",
+      "name": "Iacov",
+      "aliases": [
+        "Israel",
+        "Iacob"
+      ],
+      "category": "person",
+      "subcategory": "patriarch",
+      "description": "Fiul lui Isaac, tatăl celor 12 triburi ale lui Israel. A luptat cu îngerul și a primit numele Israel.",
+      "significance": "Strămoșul poporului ales, simbol al transformării spirituale.",
+      "relatedVerses": [
+        {
+          "book": "Facerea",
+          "chapter": 25,
+          "verse": 26
+        },
+        {
+          "book": "Facerea",
+          "chapter": 32,
+          "verse": 28
+        }
+      ],
+      "relatedEntries": [
+        "isaac",
+        "rebeca",
+        "rahela",
+        "lia",
+        "iosif_patriarh"
+      ],
+      "coordinates": null,
+      "timeline": "~1800 î.Hr."
+    },
+    {
+      "id": "rahela",
+      "name": "Rahela",
+      "aliases": [
+        "Rachel"
+      ],
+      "category": "person",
+      "subcategory": "patriarch",
+      "description": "Soția iubită a lui Iacov, mama lui Iosif și Beniamin.",
+      "significance": "Simbol al iubirii și al suferinței materne în tradiția biblică.",
+      "relatedVerses": [
+        {
+          "book": "Facerea",
+          "chapter": 29,
+          "verse": 18
+        },
+        {
+          "book": "Facerea",
+          "chapter": 35,
+          "verse": 19
+        }
+      ],
+      "relatedEntries": [
+        "iacov",
+        "iosif_patriarh"
+      ],
+      "coordinates": null,
+      "timeline": "~1750 î.Hr."
+    },
+    {
+      "id": "lia",
+      "name": "Lia",
+      "aliases": [
+        "Leea"
+      ],
+      "category": "person",
+      "subcategory": "patriarch",
+      "description": "Prima soție a lui Iacov, mama a șase din cele douăsprezece triburi ale lui Israel.",
+      "significance": "Deși neiubită, a fost binecuvântată cu mulți fii, inclusiv Iuda din care vine Mesia.",
+      "relatedVerses": [
+        {
+          "book": "Facerea",
+          "chapter": 29,
+          "verse": 23
+        }
+      ],
+      "relatedEntries": [
+        "iacov",
+        "rahela"
+      ],
+      "coordinates": null,
+      "timeline": "~1750 î.Hr."
+    },
+    {
+      "id": "iosif_patriarh",
+      "name": "Iosif (patriarh)",
+      "aliases": [
+        "Iosif fiul lui Iacov"
+      ],
+      "category": "person",
+      "subcategory": "patriarch",
+      "description": "Fiul preferat al lui Iacov, vândut de frați în Egipt unde a ajuns guvernator.",
+      "significance": "Prefigurare a lui Hristos prin suferință, iertare și salvarea poporului.",
+      "relatedVerses": [
+        {
+          "book": "Facerea",
+          "chapter": 37,
+          "verse": 28
+        },
+        {
+          "book": "Facerea",
+          "chapter": 41,
+          "verse": 41
+        }
+      ],
+      "relatedEntries": [
+        "iacov",
+        "rahela",
+        "egipt"
+      ],
+      "coordinates": null,
+      "timeline": "~1700 î.Hr."
+    },
+    {
+      "id": "moise",
+      "name": "Moise",
+      "aliases": [
+        "Moyse"
+      ],
+      "category": "person",
+      "subcategory": "prophet",
+      "description": "Profet și conducător care a eliberat poporul Israel din robia Egiptului și a primit Legea pe Sinai.",
+      "significance": "Cel mai mare profet al Vechiului Testament, mijlocitor între Dumnezeu și popor.",
+      "relatedVerses": [
+        {
+          "book": "Eșirea",
+          "chapter": 3,
+          "verse": 10
+        },
+        {
+          "book": "Eșirea",
+          "chapter": 20,
+          "verse": 1
+        }
+      ],
+      "relatedEntries": [
+        "aaron",
+        "miriam",
+        "sinai",
+        "exodul",
+        "cele_10_porunci"
+      ],
+      "coordinates": null,
+      "timeline": "~1300 î.Hr."
+    },
+    {
+      "id": "aaron",
+      "name": "Aaron",
+      "aliases": [],
+      "category": "person",
+      "subcategory": "priest",
+      "description": "Fratele lui Moise, primul Mare Preot al lui Israel.",
+      "significance": "Întemeietorul preoției levitice și purtătorul de cuvânt al lui Moise.",
+      "relatedVerses": [
+        {
+          "book": "Eșirea",
+          "chapter": 4,
+          "verse": 14
+        },
+        {
+          "book": "Eșirea",
+          "chapter": 28,
+          "verse": 1
+        }
+      ],
+      "relatedEntries": [
+        "moise",
+        "miriam"
+      ],
+      "coordinates": null,
+      "timeline": "~1300 î.Hr."
+    },
+    {
+      "id": "miriam",
+      "name": "Miriam",
+      "aliases": [
+        "Maria"
+      ],
+      "category": "person",
+      "subcategory": "prophet",
+      "description": "Sora lui Moise și Aaron, profetesă care a condus cântarea de laudă după trecerea Mării Roșii.",
+      "significance": "Prima femeie profet menționată în Biblie.",
+      "relatedVerses": [
+        {
+          "book": "Eșirea",
+          "chapter": 15,
+          "verse": 20
+        }
+      ],
+      "relatedEntries": [
+        "moise",
+        "aaron"
+      ],
+      "coordinates": null,
+      "timeline": "~1300 î.Hr."
+    },
+    {
+      "id": "iosua",
+      "name": "Iosua Navi",
+      "aliases": [
+        "Iosua"
+      ],
+      "category": "person",
+      "subcategory": "leader",
+      "description": "Succesorul lui Moise care a condus poporul Israel în cucerirea Canaanului.",
+      "significance": "Numele său prefigurează pe Iisus (Iosua = Iisus în ebraică).",
+      "relatedVerses": [
+        {
+          "book": "Isus Navi",
+          "chapter": 1,
+          "verse": 2
+        },
+        {
+          "book": "Isus Navi",
+          "chapter": 6,
+          "verse": 20
+        }
+      ],
+      "relatedEntries": [
+        "moise",
+        "canaan",
+        "ieriho"
+      ],
+      "coordinates": null,
+      "timeline": "~1250 î.Hr."
+    },
+    {
+      "id": "rahav",
+      "name": "Rahav",
+      "aliases": [],
+      "category": "person",
+      "subcategory": "convert",
+      "description": "Femeia din Ieriho care a ascuns iscoadele israelite și a fost cruțată.",
+      "significance": "Exemplu de credință din rândul neamurilor, menționată în genealogia lui Iisus.",
+      "relatedVerses": [
+        {
+          "book": "Isus Navi",
+          "chapter": 2,
+          "verse": 1
+        },
+        {
+          "book": "Evrei",
+          "chapter": 11,
+          "verse": 31
+        }
+      ],
+      "relatedEntries": [
+        "iosua",
+        "ieriho"
+      ],
+      "coordinates": null,
+      "timeline": "~1250 î.Hr."
+    },
+    {
+      "id": "debora",
+      "name": "Debora",
+      "aliases": [],
+      "category": "person",
+      "subcategory": "judge",
+      "description": "Judecătoare și profetesă a lui Israel care a condus victoria împotriva lui Sisera.",
+      "significance": "Una dintre puținele femei conducătoare ale lui Israel.",
+      "relatedVerses": [
+        {
+          "book": "Judecătorii",
+          "chapter": 4,
+          "verse": 4
+        }
+      ],
+      "relatedEntries": [],
+      "coordinates": null,
+      "timeline": "~1150 î.Hr."
+    },
+    {
+      "id": "ghedeon",
+      "name": "Ghedeon",
+      "aliases": [
+        "Ierubaal"
+      ],
+      "category": "person",
+      "subcategory": "judge",
+      "description": "Judecător al lui Israel care a învins armata madianiților cu doar 300 de oameni.",
+      "significance": "Simbol al puterii divine care lucrează prin mijloace slabe.",
+      "relatedVerses": [
+        {
+          "book": "Judecătorii",
+          "chapter": 6,
+          "verse": 12
+        },
+        {
+          "book": "Judecătorii",
+          "chapter": 7,
+          "verse": 7
+        }
+      ],
+      "relatedEntries": [],
+      "coordinates": null,
+      "timeline": "~1100 î.Hr."
+    },
+    {
+      "id": "samson",
+      "name": "Samson",
+      "aliases": [],
+      "category": "person",
+      "subcategory": "judge",
+      "description": "Judecător cu putere supranaturală, nazireu consacrat lui Dumnezeu din naștere.",
+      "significance": "Exemplu al puterii divine și al slăbiciunii umane.",
+      "relatedVerses": [
+        {
+          "book": "Judecătorii",
+          "chapter": 13,
+          "verse": 5
+        },
+        {
+          "book": "Judecătorii",
+          "chapter": 16,
+          "verse": 30
+        }
+      ],
+      "relatedEntries": [
+        "dalila",
+        "gaza"
+      ],
+      "coordinates": null,
+      "timeline": "~1100 î.Hr."
+    },
+    {
+      "id": "dalila",
+      "name": "Dalila",
+      "aliases": [],
+      "category": "person",
+      "subcategory": null,
+      "description": "Femeia care l-a trădat pe Samson, descoperind secretul puterii sale.",
+      "significance": "Simbol al ispitei și al trădării.",
+      "relatedVerses": [
+        {
+          "book": "Judecătorii",
+          "chapter": 16,
+          "verse": 18
+        }
+      ],
+      "relatedEntries": [
+        "samson"
+      ],
+      "coordinates": null,
+      "timeline": "~1100 î.Hr."
+    },
+    {
+      "id": "rut",
+      "name": "Rut",
+      "aliases": [
+        "Ruth"
+      ],
+      "category": "person",
+      "subcategory": "convert",
+      "description": "Moabiteancă care și-a urmat soacra Naomi în Israel, devenind străbunica regelui David.",
+      "significance": "Model de loialitate și devotament, strămoașă a lui Iisus Hristos.",
+      "relatedVerses": [
+        {
+          "book": "Rut",
+          "chapter": 1,
+          "verse": 16
+        },
+        {
+          "book": "Rut",
+          "chapter": 4,
+          "verse": 17
+        }
+      ],
+      "relatedEntries": [
+        "naomi",
+        "david"
+      ],
+      "coordinates": null,
+      "timeline": "~1100 î.Hr."
+    },
+    {
+      "id": "naomi",
+      "name": "Naomi",
+      "aliases": [],
+      "category": "person",
+      "subcategory": null,
+      "description": "Soacra lui Rut, care s-a întors din Moab în Betleem.",
+      "significance": "Ghid spiritual pentru Rut în drumul către credință.",
+      "relatedVerses": [
+        {
+          "book": "Rut",
+          "chapter": 1,
+          "verse": 20
+        }
+      ],
+      "relatedEntries": [
+        "rut",
+        "betleem"
+      ],
+      "coordinates": null,
+      "timeline": "~1100 î.Hr."
+    },
+    {
+      "id": "samuil",
+      "name": "Samuil",
+      "aliases": [
+        "Samuel"
+      ],
+      "category": "person",
+      "subcategory": "prophet",
+      "description": "Ultimul judecător și profet care a uns pe Saul și David ca regi ai lui Israel.",
+      "significance": "Legătura dintre epoca judecătorilor și monarhie.",
+      "relatedVerses": [
+        {
+          "book": "1 Împărați",
+          "chapter": 3,
+          "verse": 10
+        },
+        {
+          "book": "1 Împărați",
+          "chapter": 16,
+          "verse": 13
+        }
+      ],
+      "relatedEntries": [
+        "saul",
+        "david",
+        "silo"
+      ],
+      "coordinates": null,
+      "timeline": "~1050 î.Hr."
+    },
+    {
+      "id": "saul",
+      "name": "Saul",
+      "aliases": [],
+      "category": "person",
+      "subcategory": "king",
+      "description": "Primul rege al Israelului, uns de Samuil, care a căzut din har prin neascultare.",
+      "significance": "Exemplu al consecințelor neascultării de Dumnezeu.",
+      "relatedVerses": [
+        {
+          "book": "1 Împărați",
+          "chapter": 10,
+          "verse": 1
+        },
+        {
+          "book": "1 Împărați",
+          "chapter": 31,
+          "verse": 4
+        }
+      ],
+      "relatedEntries": [
+        "samuil",
+        "david",
+        "ionatan"
+      ],
+      "coordinates": null,
+      "timeline": "~1050–1010 î.Hr."
+    },
+    {
+      "id": "david",
+      "name": "David",
+      "aliases": [
+        "Regele David"
+      ],
+      "category": "person",
+      "subcategory": "king",
+      "description": "Al doilea rege al Israelului, autor al Psalmilor, un om după inima lui Dumnezeu.",
+      "significance": "Strămoș al lui Iisus Hristos, simbol al regelui mesianic.",
+      "relatedVerses": [
+        {
+          "book": "1 Împărați",
+          "chapter": 16,
+          "verse": 13
+        },
+        {
+          "book": "Psalmii",
+          "chapter": 23,
+          "verse": 1
+        }
+      ],
+      "relatedEntries": [
+        "samuil",
+        "ionatan",
+        "solomon",
+        "ierusalim"
+      ],
+      "coordinates": null,
+      "timeline": "~1010–970 î.Hr."
+    },
+    {
+      "id": "ionatan",
+      "name": "Ionatan",
+      "aliases": [
+        "Ionatan fiul lui Saul"
+      ],
+      "category": "person",
+      "subcategory": "prince",
+      "description": "Fiul regelui Saul și prietenul devotat al lui David.",
+      "significance": "Model de prietenie sinceră și loialitate.",
+      "relatedVerses": [
+        {
+          "book": "1 Împărați",
+          "chapter": 18,
+          "verse": 3
+        }
+      ],
+      "relatedEntries": [
+        "saul",
+        "david"
+      ],
+      "coordinates": null,
+      "timeline": "~1040–1010 î.Hr."
+    },
+    {
+      "id": "bat_seba",
+      "name": "Bat-Șeba",
+      "aliases": [
+        "Batșeba"
+      ],
+      "category": "person",
+      "subcategory": "queen",
+      "description": "Soția lui Urie hititul, apoi a regelui David, mama lui Solomon.",
+      "significance": "Parte din genealogia lui Iisus, simbol al pocăinței lui David.",
+      "relatedVerses": [
+        {
+          "book": "2 Împărați",
+          "chapter": 11,
+          "verse": 3
+        }
+      ],
+      "relatedEntries": [
+        "david",
+        "solomon"
+      ],
+      "coordinates": null,
+      "timeline": "~1000 î.Hr."
+    },
+    {
+      "id": "solomon",
+      "name": "Solomon",
+      "aliases": [
+        "Regele Solomon"
+      ],
+      "category": "person",
+      "subcategory": "king",
+      "description": "Fiul lui David, cel mai înțelept rege al Israelului, constructor al Templului din Ierusalim.",
+      "significance": "Simbol al înțelepciunii divine și al gloriei regatului unit.",
+      "relatedVerses": [
+        {
+          "book": "3 Împărați",
+          "chapter": 3,
+          "verse": 12
+        },
+        {
+          "book": "3 Împărați",
+          "chapter": 6,
+          "verse": 1
+        }
+      ],
+      "relatedEntries": [
+        "david",
+        "templul",
+        "ierusalim"
+      ],
+      "coordinates": null,
+      "timeline": "~970–930 î.Hr."
+    },
+    {
+      "id": "ilie",
+      "name": "Ilie",
+      "aliases": [
+        "Ilie Tișbiteanul",
+        "Ilie Prorocul"
+      ],
+      "category": "person",
+      "subcategory": "prophet",
+      "description": "Mare profet al lui Israel care s-a împotrivit idolatriei și a fost ridicat la cer într-un car de foc.",
+      "significance": "Prefigurare a lui Ioan Botezătorul, prezent la Schimbarea la Față.",
+      "relatedVerses": [
+        {
+          "book": "3 Împărați",
+          "chapter": 18,
+          "verse": 38
+        },
+        {
+          "book": "4 Împărați",
+          "chapter": 2,
+          "verse": 11
+        }
+      ],
+      "relatedEntries": [
+        "elisei",
+        "ioan_botezatorul"
+      ],
+      "coordinates": null,
+      "timeline": "~870 î.Hr."
+    },
+    {
+      "id": "elisei",
+      "name": "Elisei",
+      "aliases": [],
+      "category": "person",
+      "subcategory": "prophet",
+      "description": "Ucenicul și succesorul profetului Ilie, cunoscut pentru numeroasele sale minuni.",
+      "significance": "A primit duh îndoit față de Ilie, prefigurând puterea harului.",
+      "relatedVerses": [
+        {
+          "book": "4 Împărați",
+          "chapter": 2,
+          "verse": 14
+        }
+      ],
+      "relatedEntries": [
+        "ilie"
+      ],
+      "coordinates": null,
+      "timeline": "~850 î.Hr."
+    },
+    {
+      "id": "isaia",
+      "name": "Isaia",
+      "aliases": [
+        "Profetul Isaia"
+      ],
+      "category": "person",
+      "subcategory": "prophet",
+      "description": "Marele profet care a prezis nașterea din fecioară și suferințele lui Mesia.",
+      "significance": "Numit «evanghelistul Vechiului Testament» pentru profețiile mesianice detaliate.",
+      "relatedVerses": [
+        {
+          "book": "Isaia",
+          "chapter": 7,
+          "verse": 14
+        },
+        {
+          "book": "Isaia",
+          "chapter": 53,
+          "verse": 5
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos"
+      ],
+      "coordinates": null,
+      "timeline": "~740–680 î.Hr."
+    },
+    {
+      "id": "ieremia",
+      "name": "Ieremia",
+      "aliases": [
+        "Profetul Ieremia"
+      ],
+      "category": "person",
+      "subcategory": "prophet",
+      "description": "Profetul plângător care a prezis distrugerea Ierusalimului și robia babiloneană.",
+      "significance": "Profetul noului legământ, simbol al suferinței pentru adevăr.",
+      "relatedVerses": [
+        {
+          "book": "Ieremia",
+          "chapter": 1,
+          "verse": 5
+        },
+        {
+          "book": "Ieremia",
+          "chapter": 31,
+          "verse": 31
+        }
+      ],
+      "relatedEntries": [
+        "robia_babiloneana",
+        "ierusalim"
+      ],
+      "coordinates": null,
+      "timeline": "~626–586 î.Hr."
+    },
+    {
+      "id": "iezechiel",
+      "name": "Iezechiel",
+      "aliases": [
+        "Ezechiel"
+      ],
+      "category": "person",
+      "subcategory": "prophet",
+      "description": "Profet preot exilat în Babilon, cunoscut pentru viziunile sale despre slava lui Dumnezeu.",
+      "significance": "A văzut viziunea oaselor uscate care prind viață, simbol al învierii.",
+      "relatedVerses": [
+        {
+          "book": "Iezechiil",
+          "chapter": 1,
+          "verse": 1
+        },
+        {
+          "book": "Iezechiil",
+          "chapter": 37,
+          "verse": 10
+        }
+      ],
+      "relatedEntries": [
+        "robia_babiloneana",
+        "babilon"
+      ],
+      "coordinates": null,
+      "timeline": "~593–571 î.Hr."
+    },
+    {
+      "id": "daniel",
+      "name": "Daniel",
+      "aliases": [],
+      "category": "person",
+      "subcategory": "prophet",
+      "description": "Profet în exilul babilonean, scăpat miraculos din groapa cu lei.",
+      "significance": "Profet al viziunilor escatologice despre împărățiile lumii și venirea lui Mesia.",
+      "relatedVerses": [
+        {
+          "book": "Daniil",
+          "chapter": 6,
+          "verse": 22
+        },
+        {
+          "book": "Daniil",
+          "chapter": 7,
+          "verse": 13
+        }
+      ],
+      "relatedEntries": [
+        "babilon",
+        "robia_babiloneana"
+      ],
+      "coordinates": null,
+      "timeline": "~605–530 î.Hr."
+    },
+    {
+      "id": "iona",
+      "name": "Iona",
+      "aliases": [],
+      "category": "person",
+      "subcategory": "prophet",
+      "description": "Profet trimis să propovăduiască în Ninive, înghițit de un pește mare.",
+      "significance": "Cele trei zile în pântecele peștelui prefigurează moartea și învierea lui Hristos.",
+      "relatedVerses": [
+        {
+          "book": "Iona",
+          "chapter": 2,
+          "verse": 1
+        },
+        {
+          "book": "Matei",
+          "chapter": 12,
+          "verse": 40
+        }
+      ],
+      "relatedEntries": [
+        "ninive"
+      ],
+      "coordinates": null,
+      "timeline": "~780 î.Hr."
+    },
+    {
+      "id": "osea",
+      "name": "Osea",
+      "aliases": [],
+      "category": "person",
+      "subcategory": "prophet",
+      "description": "Profet al dragostei divine, căruia Dumnezeu i-a cerut să ia o soție necredincioasă.",
+      "significance": "Simbolizează iubirea neconditionată a lui Dumnezeu față de poporul Său.",
+      "relatedVerses": [
+        {
+          "book": "Osie",
+          "chapter": 1,
+          "verse": 2
+        },
+        {
+          "book": "Osie",
+          "chapter": 11,
+          "verse": 1
+        }
+      ],
+      "relatedEntries": [],
+      "coordinates": null,
+      "timeline": "~750 î.Hr."
+    },
+    {
+      "id": "miheia",
+      "name": "Miheia",
+      "aliases": [],
+      "category": "person",
+      "subcategory": "prophet",
+      "description": "Profet care a prezis nașterea lui Mesia în Betleem.",
+      "significance": "Profeția sa despre Betleem este una dintre cele mai importante profeții mesianice.",
+      "relatedVerses": [
+        {
+          "book": "Miheea",
+          "chapter": 5,
+          "verse": 2
+        }
+      ],
+      "relatedEntries": [
+        "betleem",
+        "iisus_hristos"
+      ],
+      "coordinates": null,
+      "timeline": "~735 î.Hr."
+    },
+    {
+      "id": "zaharia_profet",
+      "name": "Zaharia (profet)",
+      "aliases": [],
+      "category": "person",
+      "subcategory": "prophet",
+      "description": "Profet post-exilic care a avut viziuni despre venirea lui Mesia pe mânz de asină.",
+      "significance": "Profețiile sale despre intrarea în Ierusalim și cele 30 de arginți s-au împlinit în Hristos.",
+      "relatedVerses": [
+        {
+          "book": "Zaharia",
+          "chapter": 9,
+          "verse": 9
+        },
+        {
+          "book": "Zaharia",
+          "chapter": 11,
+          "verse": 12
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos"
+      ],
+      "coordinates": null,
+      "timeline": "~520 î.Hr."
+    },
+    {
+      "id": "maleahi",
+      "name": "Maleahi",
+      "aliases": [],
+      "category": "person",
+      "subcategory": "prophet",
+      "description": "Ultimul profet al Vechiului Testament, care a prezis venirea unui sol înaintea lui Mesia.",
+      "significance": "Face legătura între Vechiul și Noul Testament prin profeția despre Ioan Botezătorul.",
+      "relatedVerses": [
+        {
+          "book": "Malahia",
+          "chapter": 3,
+          "verse": 1
+        }
+      ],
+      "relatedEntries": [
+        "ioan_botezatorul"
+      ],
+      "coordinates": null,
+      "timeline": "~450 î.Hr."
+    },
+    {
+      "id": "iov",
+      "name": "Iov",
+      "aliases": [
+        "Job"
+      ],
+      "category": "person",
+      "subcategory": null,
+      "description": "Omul drept din Țara Uț care a fost încercat prin suferințe cumplite.",
+      "significance": "Exemplul suprem de răbdare și credință în fața suferinței.",
+      "relatedVerses": [
+        {
+          "book": "Iov",
+          "chapter": 1,
+          "verse": 1
+        },
+        {
+          "book": "Iov",
+          "chapter": 42,
+          "verse": 10
+        }
+      ],
+      "relatedEntries": [],
+      "coordinates": null,
+      "timeline": null
+    },
+    {
+      "id": "estera",
+      "name": "Estera",
+      "aliases": [
+        "Hadassa"
+      ],
+      "category": "person",
+      "subcategory": "queen",
+      "description": "Regina evreică a Persiei care și-a salvat poporul de la nimicire.",
+      "significance": "Simbol al curajului și providenței divine.",
+      "relatedVerses": [
+        {
+          "book": "Estera",
+          "chapter": 4,
+          "verse": 14
+        }
+      ],
+      "relatedEntries": [
+        "persia"
+      ],
+      "coordinates": null,
+      "timeline": "~480 î.Hr."
+    },
+    {
+      "id": "neemia",
+      "name": "Neemia",
+      "aliases": [],
+      "category": "person",
+      "subcategory": "leader",
+      "description": "Paharnicul regelui persan care a reconstruit zidurile Ierusalimului.",
+      "significance": "Model de conducere și dedicare pentru restaurarea comunității.",
+      "relatedVerses": [
+        {
+          "book": "Neemia",
+          "chapter": 2,
+          "verse": 5
+        }
+      ],
+      "relatedEntries": [
+        "ierusalim",
+        "intoarcerea_din_exil"
+      ],
+      "coordinates": null,
+      "timeline": "~445 î.Hr."
+    },
+    {
+      "id": "ezdra",
+      "name": "Ezdra",
+      "aliases": [
+        "Ezra"
+      ],
+      "category": "person",
+      "subcategory": "priest",
+      "description": "Preot și cărturar care a restaurat studiul Legii după întoarcerea din exil.",
+      "significance": "Restauratorul identității religioase a poporului Israel.",
+      "relatedVerses": [
+        {
+          "book": "3 Esdra",
+          "chapter": 7,
+          "verse": 10
+        }
+      ],
+      "relatedEntries": [
+        "intoarcerea_din_exil"
+      ],
+      "coordinates": null,
+      "timeline": "~458 î.Hr."
+    },
+    {
+      "id": "maria",
+      "name": "Maica Domnului",
+      "aliases": [
+        "Maria",
+        "Fecioara Maria",
+        "Născătoarea de Dumnezeu",
+        "Theotokos"
+      ],
+      "category": "person",
+      "subcategory": "holy",
+      "description": "Fecioara din Nazaret aleasă de Dumnezeu pentru a naște pe Iisus Hristos.",
+      "significance": "Cea mai cinstită dintre sfinți, model de smerenie și ascultare.",
+      "relatedVerses": [
+        {
+          "book": "Luca",
+          "chapter": 1,
+          "verse": 28
+        },
+        {
+          "book": "Luca",
+          "chapter": 1,
+          "verse": 46
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos",
+        "iosif_mire",
+        "buna_vestire",
+        "nazaret"
+      ],
+      "coordinates": null,
+      "timeline": "sec. I d.Hr."
+    },
+    {
+      "id": "iosif_mire",
+      "name": "Iosif (soțul Mariei)",
+      "aliases": [
+        "Sfântul Iosif"
+      ],
+      "category": "person",
+      "subcategory": "holy",
+      "description": "Descendentul lui David, logodnicul Fecioarei Maria și ocrotitorul Pruncului Iisus.",
+      "significance": "Model de dreptate, ascultare și protecție paternă.",
+      "relatedVerses": [
+        {
+          "book": "Matei",
+          "chapter": 1,
+          "verse": 20
+        }
+      ],
+      "relatedEntries": [
+        "maria",
+        "iisus_hristos",
+        "betleem",
+        "nazaret"
+      ],
+      "coordinates": null,
+      "timeline": "sec. I d.Hr."
+    },
+    {
+      "id": "iisus_hristos",
+      "name": "Iisus Hristos",
+      "aliases": [
+        "Hristos",
+        "Mesia",
+        "Mântuitorul",
+        "Fiul lui Dumnezeu",
+        "Emmanuel"
+      ],
+      "category": "person",
+      "subcategory": "divine",
+      "description": "Fiul lui Dumnezeu întrupat, Mântuitorul lumii, centrul credinței creștine.",
+      "significance": "Dumnezeu adevărat și Om adevărat, prin a cărui moarte și înviere vine mântuirea.",
+      "relatedVerses": [
+        {
+          "book": "Ioan",
+          "chapter": 3,
+          "verse": 16
+        },
+        {
+          "book": "Matei",
+          "chapter": 28,
+          "verse": 6
+        },
+        {
+          "book": "Ioan",
+          "chapter": 1,
+          "verse": 14
+        }
+      ],
+      "relatedEntries": [
+        "maria",
+        "nasterea_domnului",
+        "rastignirea",
+        "invierea",
+        "betleem",
+        "ierusalim"
+      ],
+      "coordinates": null,
+      "timeline": "~4 î.Hr. – ~33 d.Hr."
+    },
+    {
+      "id": "ioan_botezatorul",
+      "name": "Ioan Botezătorul",
+      "aliases": [
+        "Înaintemergătorul",
+        "Ioan Înainte-mergătorul"
+      ],
+      "category": "person",
+      "subcategory": "prophet",
+      "description": "Profetul care a pregătit calea Domnului și L-a botezat pe Iisus în Iordan.",
+      "significance": "Ultimul profet al Vechiului Legământ și primul vestitor al celui Nou.",
+      "relatedVerses": [
+        {
+          "book": "Matei",
+          "chapter": 3,
+          "verse": 1
+        },
+        {
+          "book": "Ioan",
+          "chapter": 1,
+          "verse": 29
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos",
+        "iordan",
+        "botezul_lui_iisus"
+      ],
+      "coordinates": null,
+      "timeline": "~5 î.Hr. – ~29 d.Hr."
+    },
+    {
+      "id": "petru",
+      "name": "Petru",
+      "aliases": [
+        "Simon Petru",
+        "Chefa",
+        "Simon"
+      ],
+      "category": "person",
+      "subcategory": "apostle",
+      "description": "Pescar din Galileea, conducătorul apostolilor, primul care L-a mărturisit pe Iisus ca Hristos.",
+      "significance": "Stânca pe care Hristos a zidit Biserica Sa.",
+      "relatedVerses": [
+        {
+          "book": "Matei",
+          "chapter": 16,
+          "verse": 18
+        },
+        {
+          "book": "Ioan",
+          "chapter": 21,
+          "verse": 17
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos",
+        "andrei",
+        "roma"
+      ],
+      "coordinates": null,
+      "timeline": "sec. I d.Hr."
+    },
+    {
+      "id": "andrei",
+      "name": "Andrei",
+      "aliases": [
+        "Sfântul Andrei"
+      ],
+      "category": "person",
+      "subcategory": "apostle",
+      "description": "Fratele lui Petru, primul chemat dintre apostoli.",
+      "significance": "Primul ucenic al lui Iisus, ocrotitorul mai multor popoare.",
+      "relatedVerses": [
+        {
+          "book": "Ioan",
+          "chapter": 1,
+          "verse": 40
+        }
+      ],
+      "relatedEntries": [
+        "petru",
+        "iisus_hristos"
+      ],
+      "coordinates": null,
+      "timeline": "sec. I d.Hr."
+    },
+    {
+      "id": "iacov_apostol",
+      "name": "Iacov (fiul lui Zevedeu)",
+      "aliases": [
+        "Iacov cel Mare"
+      ],
+      "category": "person",
+      "subcategory": "apostle",
+      "description": "Apostol, fratele lui Ioan, primul apostol martir.",
+      "significance": "Unul din cei trei ucenici apropiați ai lui Iisus.",
+      "relatedVerses": [
+        {
+          "book": "Matei",
+          "chapter": 4,
+          "verse": 21
+        },
+        {
+          "book": "Faptele Apostolilor",
+          "chapter": 12,
+          "verse": 2
+        }
+      ],
+      "relatedEntries": [
+        "ioan_evanghelist",
+        "iisus_hristos"
+      ],
+      "coordinates": null,
+      "timeline": "sec. I d.Hr."
+    },
+    {
+      "id": "ioan_evanghelist",
+      "name": "Ioan (evanghelistul)",
+      "aliases": [
+        "Sfântul Ioan Teologul"
+      ],
+      "category": "person",
+      "subcategory": "apostle",
+      "description": "Ucenicul iubit al lui Iisus, autor al Evangheliei, epistolelor și Apocalipsei.",
+      "significance": "Teologul iubirii divine, singurul apostol care nu a murit martir.",
+      "relatedVerses": [
+        {
+          "book": "Ioan",
+          "chapter": 13,
+          "verse": 23
+        },
+        {
+          "book": "Apocalipsa",
+          "chapter": 1,
+          "verse": 1
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos",
+        "iacov_apostol",
+        "patmos"
+      ],
+      "coordinates": null,
+      "timeline": "sec. I d.Hr."
+    },
+    {
+      "id": "filip",
+      "name": "Filip",
+      "aliases": [
+        "Filip Apostolul"
+      ],
+      "category": "person",
+      "subcategory": "apostle",
+      "description": "Apostol din Betsaida, care L-a adus pe Natanael la Iisus.",
+      "significance": "Cunoscut pentru dialogul cu Iisus despre arătarea Tatălui.",
+      "relatedVerses": [
+        {
+          "book": "Ioan",
+          "chapter": 1,
+          "verse": 43
+        },
+        {
+          "book": "Ioan",
+          "chapter": 14,
+          "verse": 8
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos"
+      ],
+      "coordinates": null,
+      "timeline": "sec. I d.Hr."
+    },
+    {
+      "id": "matei_apostol",
+      "name": "Matei",
+      "aliases": [
+        "Levi"
+      ],
+      "category": "person",
+      "subcategory": "apostle",
+      "description": "Vameș chemat de Iisus să fie apostol, autor al primei Evanghelii.",
+      "significance": "Demonstrează că harul divin poate transforma orice om.",
+      "relatedVerses": [
+        {
+          "book": "Matei",
+          "chapter": 9,
+          "verse": 9
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos"
+      ],
+      "coordinates": null,
+      "timeline": "sec. I d.Hr."
+    },
+    {
+      "id": "toma",
+      "name": "Toma",
+      "aliases": [
+        "Toma Necredinciosul",
+        "Didim"
+      ],
+      "category": "person",
+      "subcategory": "apostle",
+      "description": "Apostol cunoscut pentru îndoiala sa și apoi mărturisirea puternică a lui Iisus ca Domn și Dumnezeu.",
+      "significance": "Modelul credinței care depășește îndoiala.",
+      "relatedVerses": [
+        {
+          "book": "Ioan",
+          "chapter": 20,
+          "verse": 28
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos",
+        "invierea"
+      ],
+      "coordinates": null,
+      "timeline": "sec. I d.Hr."
+    },
+    {
+      "id": "iuda_iscarioteanul",
+      "name": "Iuda Iscarioteanul",
+      "aliases": [
+        "Iuda trădătorul"
+      ],
+      "category": "person",
+      "subcategory": "apostle",
+      "description": "Apostolul care L-a trădat pe Iisus pentru 30 de arginți.",
+      "significance": "Simbol al trădării și al consecințelor lăcomiei.",
+      "relatedVerses": [
+        {
+          "book": "Matei",
+          "chapter": 26,
+          "verse": 15
+        },
+        {
+          "book": "Matei",
+          "chapter": 27,
+          "verse": 5
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos",
+        "cina_cea_de_taina"
+      ],
+      "coordinates": null,
+      "timeline": "sec. I d.Hr."
+    },
+    {
+      "id": "pavel",
+      "name": "Pavel",
+      "aliases": [
+        "Saul din Tars",
+        "Apostolul Pavel",
+        "Sfântul Pavel"
+      ],
+      "category": "person",
+      "subcategory": "apostle",
+      "description": "Fost persecutor al creștinilor, convertit pe drumul Damascului, cel mai mare misionar creștin.",
+      "significance": "Apostolul neamurilor, autor a 13 epistole din Noul Testament.",
+      "relatedVerses": [
+        {
+          "book": "Faptele Apostolilor",
+          "chapter": 9,
+          "verse": 3
+        },
+        {
+          "book": "Romani",
+          "chapter": 1,
+          "verse": 1
+        }
+      ],
+      "relatedEntries": [
+        "conversia_lui_pavel",
+        "damasc",
+        "antiohia",
+        "efes",
+        "corint",
+        "roma"
+      ],
+      "coordinates": null,
+      "timeline": "~5–67 d.Hr."
+    },
+    {
+      "id": "barnaba",
+      "name": "Barnaba",
+      "aliases": [
+        "Iosif Barnaba"
+      ],
+      "category": "person",
+      "subcategory": "apostle",
+      "description": "Levit din Cipru, tovarăș de misiune al lui Pavel.",
+      "significance": "Fiul mângâierii, model de generozitate și încurajare.",
+      "relatedVerses": [
+        {
+          "book": "Faptele Apostolilor",
+          "chapter": 4,
+          "verse": 36
+        }
+      ],
+      "relatedEntries": [
+        "pavel",
+        "antiohia"
+      ],
+      "coordinates": null,
+      "timeline": "sec. I d.Hr."
+    },
+    {
+      "id": "luca",
+      "name": "Luca",
+      "aliases": [
+        "Sfântul Luca"
+      ],
+      "category": "person",
+      "subcategory": "evangelist",
+      "description": "Medic și însoțitor al lui Pavel, autor al Evangheliei a treia și al Faptelor Apostolilor.",
+      "significance": "Singurul autor pagan al Noului Testament, protector al medicilor.",
+      "relatedVerses": [
+        {
+          "book": "Coloseni",
+          "chapter": 4,
+          "verse": 14
+        }
+      ],
+      "relatedEntries": [
+        "pavel"
+      ],
+      "coordinates": null,
+      "timeline": "sec. I d.Hr."
+    },
+    {
+      "id": "marcu",
+      "name": "Marcu",
+      "aliases": [
+        "Ioan Marcu",
+        "Sfântul Marcu"
+      ],
+      "category": "person",
+      "subcategory": "evangelist",
+      "description": "Autor al celei de-a doua Evanghelii, ucenic al lui Petru.",
+      "significance": "A scris cea mai veche Evanghelie, bazată pe mărturiile lui Petru.",
+      "relatedVerses": [
+        {
+          "book": "Faptele Apostolilor",
+          "chapter": 12,
+          "verse": 12
+        }
+      ],
+      "relatedEntries": [
+        "petru",
+        "pavel"
+      ],
+      "coordinates": null,
+      "timeline": "sec. I d.Hr."
+    },
+    {
+      "id": "timotei",
+      "name": "Timotei",
+      "aliases": [],
+      "category": "person",
+      "subcategory": "bishop",
+      "description": "Tânăr ucenic al lui Pavel, episcop al Efesului.",
+      "significance": "Model de tânăr dedicat slujirii creștine.",
+      "relatedVerses": [
+        {
+          "book": "1 Timotei",
+          "chapter": 4,
+          "verse": 12
+        },
+        {
+          "book": "2 Timotei",
+          "chapter": 1,
+          "verse": 5
+        }
+      ],
+      "relatedEntries": [
+        "pavel",
+        "efes"
+      ],
+      "coordinates": null,
+      "timeline": "sec. I d.Hr."
+    },
+    {
+      "id": "maria_magdalena",
+      "name": "Maria Magdalena",
+      "aliases": [
+        "Mironosița"
+      ],
+      "category": "person",
+      "subcategory": "holy",
+      "description": "Femeie vindecată de Iisus de șapte demoni, prima martoră a Învierii.",
+      "significance": "Egală cu apostolii, prima care a vestit Învierea lui Hristos.",
+      "relatedVerses": [
+        {
+          "book": "Ioan",
+          "chapter": 20,
+          "verse": 16
+        },
+        {
+          "book": "Luca",
+          "chapter": 8,
+          "verse": 2
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos",
+        "invierea"
+      ],
+      "coordinates": null,
+      "timeline": "sec. I d.Hr."
+    },
+    {
+      "id": "marta",
+      "name": "Marta",
+      "aliases": [],
+      "category": "person",
+      "subcategory": "holy",
+      "description": "Sora lui Lazăr și a Mariei din Betania, gazdă a lui Iisus.",
+      "significance": "Simbol al slujirii practice și al mărturisirii credinței.",
+      "relatedVerses": [
+        {
+          "book": "Ioan",
+          "chapter": 11,
+          "verse": 27
+        },
+        {
+          "book": "Luca",
+          "chapter": 10,
+          "verse": 40
+        }
+      ],
+      "relatedEntries": [
+        "lazar",
+        "betania",
+        "iisus_hristos"
+      ],
+      "coordinates": null,
+      "timeline": "sec. I d.Hr."
+    },
+    {
+      "id": "lazar",
+      "name": "Lazăr",
+      "aliases": [
+        "Lazăr din Betania"
+      ],
+      "category": "person",
+      "subcategory": "holy",
+      "description": "Prietenul lui Iisus, înviat din morți după patru zile.",
+      "significance": "Cea mai mare minune a lui Iisus, prefigurare a Învierii universale.",
+      "relatedVerses": [
+        {
+          "book": "Ioan",
+          "chapter": 11,
+          "verse": 43
+        }
+      ],
+      "relatedEntries": [
+        "marta",
+        "betania",
+        "iisus_hristos"
+      ],
+      "coordinates": null,
+      "timeline": "sec. I d.Hr."
+    },
+    {
+      "id": "nicodim",
+      "name": "Nicodim",
+      "aliases": [],
+      "category": "person",
+      "subcategory": "pharisee",
+      "description": "Fariseu și membru al Sinedriului care L-a vizitat pe Iisus noaptea.",
+      "significance": "Exemplu al căutării sincere a adevărului.",
+      "relatedVerses": [
+        {
+          "book": "Ioan",
+          "chapter": 3,
+          "verse": 1
+        },
+        {
+          "book": "Ioan",
+          "chapter": 19,
+          "verse": 39
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos"
+      ],
+      "coordinates": null,
+      "timeline": "sec. I d.Hr."
+    },
+    {
+      "id": "zaheu",
+      "name": "Zaheu",
+      "aliases": [],
+      "category": "person",
+      "subcategory": null,
+      "description": "Vameșul mic de statură din Ieriho care s-a urcat într-un sicomor ca să-L vadă pe Iisus.",
+      "significance": "Simbol al pocăinței sincere și al transformării prin întâlnirea cu Hristos.",
+      "relatedVerses": [
+        {
+          "book": "Luca",
+          "chapter": 19,
+          "verse": 2
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos",
+        "ieriho"
+      ],
+      "coordinates": null,
+      "timeline": "sec. I d.Hr."
+    },
+    {
+      "id": "pilat",
+      "name": "Pilat din Pont",
+      "aliases": [
+        "Ponțiu Pilat"
+      ],
+      "category": "person",
+      "subcategory": "ruler",
+      "description": "Guvernatorul roman al Iudeei care L-a condamnat pe Iisus la răstignire.",
+      "significance": "Menționat în Crez, reprezentant al puterii lumești în fața adevărului.",
+      "relatedVerses": [
+        {
+          "book": "Matei",
+          "chapter": 27,
+          "verse": 24
+        },
+        {
+          "book": "Ioan",
+          "chapter": 18,
+          "verse": 38
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos",
+        "rastignirea"
+      ],
+      "coordinates": null,
+      "timeline": "~26–36 d.Hr."
+    },
+    {
+      "id": "irod",
+      "name": "Irod cel Mare",
+      "aliases": [],
+      "category": "person",
+      "subcategory": "ruler",
+      "description": "Regele Iudeii care a ordonat uciderea pruncilor din Betleem.",
+      "significance": "Simbol al puterii care se opune planului divin.",
+      "relatedVerses": [
+        {
+          "book": "Matei",
+          "chapter": 2,
+          "verse": 16
+        }
+      ],
+      "relatedEntries": [
+        "nasterea_domnului",
+        "betleem"
+      ],
+      "coordinates": null,
+      "timeline": "~73–4 î.Hr."
+    },
+    {
+      "id": "ana_profetesa",
+      "name": "Ana (profetesa)",
+      "aliases": [],
+      "category": "person",
+      "subcategory": "prophet",
+      "description": "Profetesă văduvă de 84 de ani care L-a recunoscut pe Pruncul Iisus la Templu.",
+      "significance": "Simbol al așteptării credincioase și al recunoașterii lui Mesia.",
+      "relatedVerses": [
+        {
+          "book": "Luca",
+          "chapter": 2,
+          "verse": 36
+        }
+      ],
+      "relatedEntries": [
+        "simeon",
+        "templul"
+      ],
+      "coordinates": null,
+      "timeline": "sec. I d.Hr."
+    },
+    {
+      "id": "simeon",
+      "name": "Simeon",
+      "aliases": [
+        "Dreptul Simeon"
+      ],
+      "category": "person",
+      "subcategory": "holy",
+      "description": "Bătrânul drept căruia i s-a promis că nu va muri până nu-L va vedea pe Hristos.",
+      "significance": "Rugăciunea sa «Acum slobozește» este parte a cultului creștin.",
+      "relatedVerses": [
+        {
+          "book": "Luca",
+          "chapter": 2,
+          "verse": 29
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos",
+        "templul",
+        "ana_profetesa"
+      ],
+      "coordinates": null,
+      "timeline": "sec. I d.Hr."
+    },
+    {
+      "id": "ierusalim",
+      "name": "Ierusalim",
+      "aliases": [
+        "Salem",
+        "Sion",
+        "Cetatea lui David"
+      ],
+      "category": "place",
+      "subcategory": "city",
+      "description": "Capitala spirituală a Israelului, locul Templului, al Răstignirii și al Învierii.",
+      "significance": "Centrul istoriei mântuirii, oraș sfânt pentru cele trei religii abrahamice.",
+      "relatedVerses": [
+        {
+          "book": "Psalmii",
+          "chapter": 122,
+          "verse": 1
+        },
+        {
+          "book": "Matei",
+          "chapter": 21,
+          "verse": 10
+        }
+      ],
+      "relatedEntries": [
+        "templul",
+        "golgota",
+        "ghetsimani",
+        "david"
+      ],
+      "coordinates": {
+        "latitude": 31.7683,
+        "longitude": 35.2137
+      },
+      "timeline": "~3000 î.Hr. – prezent"
+    },
+    {
+      "id": "betleem",
+      "name": "Betleem",
+      "aliases": [
+        "Efrata"
+      ],
+      "category": "place",
+      "subcategory": "city",
+      "description": "Orașul lui David și locul Nașterii lui Iisus Hristos.",
+      "significance": "Împlinirea profeției lui Miheia despre locul nașterii lui Mesia.",
+      "relatedVerses": [
+        {
+          "book": "Miheea",
+          "chapter": 5,
+          "verse": 2
+        },
+        {
+          "book": "Luca",
+          "chapter": 2,
+          "verse": 4
+        }
+      ],
+      "relatedEntries": [
+        "david",
+        "iisus_hristos",
+        "nasterea_domnului"
+      ],
+      "coordinates": {
+        "latitude": 31.7054,
+        "longitude": 35.2024
+      },
+      "timeline": "~1400 î.Hr. – prezent"
+    },
+    {
+      "id": "nazaret",
+      "name": "Nazaret",
+      "aliases": [],
+      "category": "place",
+      "subcategory": "city",
+      "description": "Orașul din Galileea unde a crescut Iisus Hristos.",
+      "significance": "Locul Bunei Vestiri și al copilăriei Mântuitorului.",
+      "relatedVerses": [
+        {
+          "book": "Luca",
+          "chapter": 1,
+          "verse": 26
+        },
+        {
+          "book": "Matei",
+          "chapter": 2,
+          "verse": 23
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos",
+        "maria",
+        "buna_vestire"
+      ],
+      "coordinates": {
+        "latitude": 32.6996,
+        "longitude": 35.3035
+      },
+      "timeline": null
+    },
+    {
+      "id": "capernaum",
+      "name": "Capernaum",
+      "aliases": [],
+      "category": "place",
+      "subcategory": "city",
+      "description": "Centrul activității lui Iisus în Galileea, pe malul Mării Galileei.",
+      "significance": "Locul multor minuni și învățături ale lui Iisus.",
+      "relatedVerses": [
+        {
+          "book": "Matei",
+          "chapter": 4,
+          "verse": 13
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos",
+        "marea_galileei"
+      ],
+      "coordinates": {
+        "latitude": 32.8803,
+        "longitude": 35.5753
+      },
+      "timeline": null
+    },
+    {
+      "id": "egipt",
+      "name": "Egipt",
+      "aliases": [],
+      "category": "place",
+      "subcategory": "country",
+      "description": "Țara robiei poporului Israel, de unde au fost eliberați prin Exod.",
+      "significance": "Simbol al robiei spirituale din care Dumnezeu eliberează.",
+      "relatedVerses": [
+        {
+          "book": "Eșirea",
+          "chapter": 1,
+          "verse": 11
+        },
+        {
+          "book": "Matei",
+          "chapter": 2,
+          "verse": 14
+        }
+      ],
+      "relatedEntries": [
+        "moise",
+        "exodul",
+        "iosif_patriarh"
+      ],
+      "coordinates": {
+        "latitude": 26.8206,
+        "longitude": 30.8025
+      },
+      "timeline": null
+    },
+    {
+      "id": "sinai",
+      "name": "Muntele Sinai",
+      "aliases": [
+        "Horeb"
+      ],
+      "category": "place",
+      "subcategory": "mountain",
+      "description": "Muntele sfânt unde Moise a primit Cele 10 Porunci de la Dumnezeu.",
+      "significance": "Locul revelației divine și al încheierii Legământului cu Israel.",
+      "relatedVerses": [
+        {
+          "book": "Eșirea",
+          "chapter": 19,
+          "verse": 20
+        },
+        {
+          "book": "Eșirea",
+          "chapter": 20,
+          "verse": 1
+        }
+      ],
+      "relatedEntries": [
+        "moise",
+        "cele_10_porunci"
+      ],
+      "coordinates": {
+        "latitude": 28.5395,
+        "longitude": 33.9751
+      },
+      "timeline": null
+    },
+    {
+      "id": "canaan",
+      "name": "Canaan",
+      "aliases": [
+        "Pământul Făgăduinței",
+        "Țara Sfântă"
+      ],
+      "category": "place",
+      "subcategory": "region",
+      "description": "Pământul promis de Dumnezeu lui Avraam și urmașilor săi.",
+      "significance": "Împlinirea făgăduinței divine, simbol al moștenirii cerești.",
+      "relatedVerses": [
+        {
+          "book": "Facerea",
+          "chapter": 12,
+          "verse": 7
+        },
+        {
+          "book": "Isus Navi",
+          "chapter": 1,
+          "verse": 3
+        }
+      ],
+      "relatedEntries": [
+        "avraam",
+        "iosua"
+      ],
+      "coordinates": {
+        "latitude": 32.0,
+        "longitude": 35.0
+      },
+      "timeline": null
+    },
+    {
+      "id": "babilon",
+      "name": "Babilon",
+      "aliases": [
+        "Babel"
+      ],
+      "category": "place",
+      "subcategory": "city",
+      "description": "Capitala imperiului babilonean, locul robiei poporului evreu.",
+      "significance": "Simbol al puterii lumești opuse lui Dumnezeu în Apocalipsă.",
+      "relatedVerses": [
+        {
+          "book": "Daniil",
+          "chapter": 1,
+          "verse": 1
+        },
+        {
+          "book": "Apocalipsa",
+          "chapter": 18,
+          "verse": 2
+        }
+      ],
+      "relatedEntries": [
+        "daniel",
+        "robia_babiloneana",
+        "turnul_babel"
+      ],
+      "coordinates": {
+        "latitude": 32.5363,
+        "longitude": 44.4209
+      },
+      "timeline": null
+    },
+    {
+      "id": "ninive",
+      "name": "Ninive",
+      "aliases": [],
+      "category": "place",
+      "subcategory": "city",
+      "description": "Capitala imperiului asirian, orașul căruia Iona a fost trimis să propovăduiască.",
+      "significance": "Exemplu al pocăinței unui popor păgân.",
+      "relatedVerses": [
+        {
+          "book": "Iona",
+          "chapter": 3,
+          "verse": 5
+        }
+      ],
+      "relatedEntries": [
+        "iona"
+      ],
+      "coordinates": {
+        "latitude": 36.36,
+        "longitude": 43.15
+      },
+      "timeline": null
+    },
+    {
+      "id": "ur",
+      "name": "Ur",
+      "aliases": [
+        "Ur al Caldeilor"
+      ],
+      "category": "place",
+      "subcategory": "city",
+      "description": "Orașul din Caldeea de unde a plecat Avraam la chemarea lui Dumnezeu.",
+      "significance": "Punctul de plecare al istoriei mântuirii.",
+      "relatedVerses": [
+        {
+          "book": "Facerea",
+          "chapter": 11,
+          "verse": 31
+        }
+      ],
+      "relatedEntries": [
+        "avraam"
+      ],
+      "coordinates": {
+        "latitude": 30.9627,
+        "longitude": 46.1031
+      },
+      "timeline": null
+    },
+    {
+      "id": "damasc",
+      "name": "Damasc",
+      "aliases": [],
+      "category": "place",
+      "subcategory": "city",
+      "description": "Unul dintre cele mai vechi orașe locuite continuu, unde Pavel s-a convertit.",
+      "significance": "Locul celei mai faimoase convertiri din istoria creștinismului.",
+      "relatedVerses": [
+        {
+          "book": "Faptele Apostolilor",
+          "chapter": 9,
+          "verse": 3
+        }
+      ],
+      "relatedEntries": [
+        "pavel",
+        "conversia_lui_pavel"
+      ],
+      "coordinates": {
+        "latitude": 33.5138,
+        "longitude": 36.2765
+      },
+      "timeline": null
+    },
+    {
+      "id": "antiohia",
+      "name": "Antiohia",
+      "aliases": [],
+      "category": "place",
+      "subcategory": "city",
+      "description": "Orașul unde ucenicii au fost numiți pentru prima dată creștini.",
+      "significance": "Centru al misiunii creștine și al primei biserici dintre neamuri.",
+      "relatedVerses": [
+        {
+          "book": "Faptele Apostolilor",
+          "chapter": 11,
+          "verse": 26
+        }
+      ],
+      "relatedEntries": [
+        "pavel",
+        "barnaba"
+      ],
+      "coordinates": {
+        "latitude": 36.2,
+        "longitude": 36.15
+      },
+      "timeline": null
+    },
+    {
+      "id": "efes",
+      "name": "Efes",
+      "aliases": [],
+      "category": "place",
+      "subcategory": "city",
+      "description": "Oraș important din Asia Mică, destinația Epistolei către Efeseni.",
+      "significance": "Loc al propovăduirii lui Pavel și al uneia din cele 7 biserici din Apocalipsă.",
+      "relatedVerses": [
+        {
+          "book": "Efeseni",
+          "chapter": 1,
+          "verse": 1
+        },
+        {
+          "book": "Apocalipsa",
+          "chapter": 2,
+          "verse": 1
+        }
+      ],
+      "relatedEntries": [
+        "pavel",
+        "timotei"
+      ],
+      "coordinates": {
+        "latitude": 37.9394,
+        "longitude": 27.3408
+      },
+      "timeline": null
+    },
+    {
+      "id": "corint",
+      "name": "Corint",
+      "aliases": [],
+      "category": "place",
+      "subcategory": "city",
+      "description": "Oraș grecesc, destinatar al celor două epistole ale lui Pavel.",
+      "significance": "Comunitate creștină cu probleme tipice, căreia Pavel îi scrie despre iubire (1 Cor 13).",
+      "relatedVerses": [
+        {
+          "book": "1 Corinteni",
+          "chapter": 13,
+          "verse": 13
+        }
+      ],
+      "relatedEntries": [
+        "pavel"
+      ],
+      "coordinates": {
+        "latitude": 37.906,
+        "longitude": 22.88
+      },
+      "timeline": null
+    },
+    {
+      "id": "roma",
+      "name": "Roma",
+      "aliases": [],
+      "category": "place",
+      "subcategory": "city",
+      "description": "Capitala Imperiului Roman, locul martiriului Sfinților Petru și Pavel.",
+      "significance": "Centrul creștinismului timpuriu, destinatară a celei mai teologice epistole.",
+      "relatedVerses": [
+        {
+          "book": "Romani",
+          "chapter": 1,
+          "verse": 7
+        }
+      ],
+      "relatedEntries": [
+        "petru",
+        "pavel"
+      ],
+      "coordinates": {
+        "latitude": 41.9028,
+        "longitude": 12.4964
+      },
+      "timeline": null
+    },
+    {
+      "id": "patmos",
+      "name": "Patmos",
+      "aliases": [],
+      "category": "place",
+      "subcategory": "island",
+      "description": "Insula din Marea Egee unde Apostolul Ioan a scris Apocalipsa.",
+      "significance": "Locul celei mai mari revelații profetice a Noului Testament.",
+      "relatedVerses": [
+        {
+          "book": "Apocalipsa",
+          "chapter": 1,
+          "verse": 9
+        }
+      ],
+      "relatedEntries": [
+        "ioan_evanghelist"
+      ],
+      "coordinates": {
+        "latitude": 37.3209,
+        "longitude": 26.5475
+      },
+      "timeline": null
+    },
+    {
+      "id": "ghetsimani",
+      "name": "Ghetsimani",
+      "aliases": [
+        "Grădina Ghetsimani"
+      ],
+      "category": "place",
+      "subcategory": "landmark",
+      "description": "Grădina de la poalele Muntelui Măslinilor unde Iisus S-a rugat înainte de arestare.",
+      "significance": "Locul celei mai intense rugăciuni și al începutului Patimilor.",
+      "relatedVerses": [
+        {
+          "book": "Matei",
+          "chapter": 26,
+          "verse": 36
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos",
+        "maslinilor"
+      ],
+      "coordinates": {
+        "latitude": 31.7793,
+        "longitude": 35.2396
+      },
+      "timeline": null
+    },
+    {
+      "id": "golgota",
+      "name": "Golgota",
+      "aliases": [
+        "Calvarul",
+        "Locul Căpățânii"
+      ],
+      "category": "place",
+      "subcategory": "landmark",
+      "description": "Locul Răstignirii lui Iisus Hristos, în afara zidurilor Ierusalimului.",
+      "significance": "Locul jertfei supreme prin care vine mântuirea lumii.",
+      "relatedVerses": [
+        {
+          "book": "Matei",
+          "chapter": 27,
+          "verse": 33
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos",
+        "rastignirea",
+        "ierusalim"
+      ],
+      "coordinates": {
+        "latitude": 31.7784,
+        "longitude": 35.2296
+      },
+      "timeline": null
+    },
+    {
+      "id": "iordan",
+      "name": "Râul Iordan",
+      "aliases": [
+        "Iordanul"
+      ],
+      "category": "place",
+      "subcategory": "river",
+      "description": "Râul principal al Țării Sfinte, locul Botezului lui Iisus.",
+      "significance": "Simbol al trecerii spre viața nouă și al botezului creștin.",
+      "relatedVerses": [
+        {
+          "book": "Matei",
+          "chapter": 3,
+          "verse": 13
+        },
+        {
+          "book": "Isus Navi",
+          "chapter": 3,
+          "verse": 17
+        }
+      ],
+      "relatedEntries": [
+        "ioan_botezatorul",
+        "botezul_lui_iisus"
+      ],
+      "coordinates": {
+        "latitude": 31.76,
+        "longitude": 35.55
+      },
+      "timeline": null
+    },
+    {
+      "id": "marea_galileei",
+      "name": "Marea Galileei",
+      "aliases": [
+        "Lacul Ghenizaret",
+        "Lacul Tiberiadei"
+      ],
+      "category": "place",
+      "subcategory": "water",
+      "description": "Lacul din nordul Israelului, centrul activității lui Iisus.",
+      "significance": "Loc al chemării ucenicilor și al multor minuni.",
+      "relatedVerses": [
+        {
+          "book": "Matei",
+          "chapter": 4,
+          "verse": 18
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos",
+        "capernaum",
+        "petru"
+      ],
+      "coordinates": {
+        "latitude": 32.83,
+        "longitude": 35.58
+      },
+      "timeline": null
+    },
+    {
+      "id": "tabor",
+      "name": "Muntele Tabor",
+      "aliases": [],
+      "category": "place",
+      "subcategory": "mountain",
+      "description": "Locul tradițional al Schimbării la Față a lui Iisus.",
+      "significance": "Revelarea slavei divine a lui Hristos înaintea apostolilor.",
+      "relatedVerses": [
+        {
+          "book": "Matei",
+          "chapter": 17,
+          "verse": 2
+        }
+      ],
+      "relatedEntries": [
+        "schimbarea_la_fata"
+      ],
+      "coordinates": {
+        "latitude": 32.6871,
+        "longitude": 35.393
+      },
+      "timeline": null
+    },
+    {
+      "id": "maslinilor",
+      "name": "Muntele Măslinilor",
+      "aliases": [],
+      "category": "place",
+      "subcategory": "mountain",
+      "description": "Munte lângă Ierusalim, locul Înălțării lui Iisus la cer.",
+      "significance": "Loc al multor evenimente esențiale din viața lui Iisus.",
+      "relatedVerses": [
+        {
+          "book": "Faptele Apostolilor",
+          "chapter": 1,
+          "verse": 12
+        }
+      ],
+      "relatedEntries": [
+        "inaltarea",
+        "ghetsimani",
+        "ierusalim"
+      ],
+      "coordinates": {
+        "latitude": 31.7782,
+        "longitude": 35.2459
+      },
+      "timeline": null
+    },
+    {
+      "id": "ararat",
+      "name": "Muntele Ararat",
+      "aliases": [],
+      "category": "place",
+      "subcategory": "mountain",
+      "description": "Muntele unde s-a oprit Arca lui Noe după Potop.",
+      "significance": "Simbol al unui nou început pentru omenire.",
+      "relatedVerses": [
+        {
+          "book": "Facerea",
+          "chapter": 8,
+          "verse": 4
+        }
+      ],
+      "relatedEntries": [
+        "noe",
+        "arca_lui_noe",
+        "potopul"
+      ],
+      "coordinates": {
+        "latitude": 39.7019,
+        "longitude": 44.2991
+      },
+      "timeline": null
+    },
+    {
+      "id": "ieriho",
+      "name": "Ieriho",
+      "aliases": [],
+      "category": "place",
+      "subcategory": "city",
+      "description": "Primul oraș cucerit de israeliți în Canaan.",
+      "significance": "Zidurile care au căzut miraculos demonstrează puterea credinței.",
+      "relatedVerses": [
+        {
+          "book": "Isus Navi",
+          "chapter": 6,
+          "verse": 20
+        }
+      ],
+      "relatedEntries": [
+        "iosua",
+        "rahav",
+        "zaheu"
+      ],
+      "coordinates": {
+        "latitude": 31.8611,
+        "longitude": 35.4625
+      },
+      "timeline": null
+    },
+    {
+      "id": "betania",
+      "name": "Betania",
+      "aliases": [],
+      "category": "place",
+      "subcategory": "village",
+      "description": "Sat lângă Ierusalim, casa Mariei, Martei și a lui Lazăr.",
+      "significance": "Locul celei mai mari minuni a lui Iisus - învierea lui Lazăr.",
+      "relatedVerses": [
+        {
+          "book": "Ioan",
+          "chapter": 11,
+          "verse": 1
+        }
+      ],
+      "relatedEntries": [
+        "lazar",
+        "marta",
+        "iisus_hristos"
+      ],
+      "coordinates": {
+        "latitude": 31.77,
+        "longitude": 35.26
+      },
+      "timeline": null
+    },
+    {
+      "id": "creatia",
+      "name": "Creația",
+      "aliases": [
+        "Facerea lumii"
+      ],
+      "category": "event",
+      "subcategory": null,
+      "description": "Actul prin care Dumnezeu a creat cerul, pământul și toate ființele în șase zile.",
+      "significance": "Fundament al credinței în Dumnezeu Creatorul și al demnității omului.",
+      "relatedVerses": [
+        {
+          "book": "Facerea",
+          "chapter": 1,
+          "verse": 1
+        },
+        {
+          "book": "Facerea",
+          "chapter": 1,
+          "verse": 27
+        }
+      ],
+      "relatedEntries": [
+        "adam",
+        "eva"
+      ],
+      "coordinates": null,
+      "timeline": "Începutul timpului"
+    },
+    {
+      "id": "caderea",
+      "name": "Căderea în păcat",
+      "aliases": [
+        "Păcatul originar"
+      ],
+      "category": "event",
+      "subcategory": null,
+      "description": "Neascultarea lui Adam și Eva în Grădina Edenului prin mâncarea din pomul oprit.",
+      "significance": "Explică originea suferinței și nevoii de mântuire.",
+      "relatedVerses": [
+        {
+          "book": "Facerea",
+          "chapter": 3,
+          "verse": 6
+        }
+      ],
+      "relatedEntries": [
+        "adam",
+        "eva"
+      ],
+      "coordinates": null,
+      "timeline": "După creație"
+    },
+    {
+      "id": "potopul",
+      "name": "Potopul",
+      "aliases": [
+        "Potopul lui Noe"
+      ],
+      "category": "event",
+      "subcategory": null,
+      "description": "Inundație universală trimisă de Dumnezeu pentru a curăți pământul de păcat.",
+      "significance": "Judecata divină și salvarea prin credință, prefigurare a botezului.",
+      "relatedVerses": [
+        {
+          "book": "Facerea",
+          "chapter": 7,
+          "verse": 17
+        }
+      ],
+      "relatedEntries": [
+        "noe",
+        "arca_lui_noe"
+      ],
+      "coordinates": null,
+      "timeline": "~2500 î.Hr."
+    },
+    {
+      "id": "turnul_babel",
+      "name": "Turnul Babel",
+      "aliases": [],
+      "category": "event",
+      "subcategory": null,
+      "description": "Încercarea oamenilor de a construi un turn până la cer, oprită de Dumnezeu prin amestecarea limbilor.",
+      "significance": "Originea diversității lingvistice și avertisment împotriva mândriei.",
+      "relatedVerses": [
+        {
+          "book": "Facerea",
+          "chapter": 11,
+          "verse": 4
+        }
+      ],
+      "relatedEntries": [
+        "babilon"
+      ],
+      "coordinates": null,
+      "timeline": "După Potop"
+    },
+    {
+      "id": "exodul",
+      "name": "Exodul",
+      "aliases": [
+        "Ieșirea din Egipt"
+      ],
+      "category": "event",
+      "subcategory": null,
+      "description": "Eliberarea poporului Israel din robia egipteană sub conducerea lui Moise.",
+      "significance": "Evenimentul fondator al identității lui Israel, prefigurare a mântuirii.",
+      "relatedVerses": [
+        {
+          "book": "Eșirea",
+          "chapter": 12,
+          "verse": 31
+        },
+        {
+          "book": "Eșirea",
+          "chapter": 14,
+          "verse": 21
+        }
+      ],
+      "relatedEntries": [
+        "moise",
+        "egipt",
+        "trecerea_marii_rosii"
+      ],
+      "coordinates": null,
+      "timeline": "~1250 î.Hr."
+    },
+    {
+      "id": "trecerea_marii_rosii",
+      "name": "Trecerea Mării Roșii",
+      "aliases": [],
+      "category": "event",
+      "subcategory": null,
+      "description": "Miracolul despărțirii apelor pentru trecerea israeliților și înecarea armatei egiptene.",
+      "significance": "Cea mai mare manifestare a puterii salvifice a lui Dumnezeu în Vechiul Testament.",
+      "relatedVerses": [
+        {
+          "book": "Eșirea",
+          "chapter": 14,
+          "verse": 21
+        }
+      ],
+      "relatedEntries": [
+        "moise",
+        "exodul",
+        "marea_rosie"
+      ],
+      "coordinates": null,
+      "timeline": "~1250 î.Hr."
+    },
+    {
+      "id": "cele_10_porunci",
+      "name": "Cele 10 Porunci",
+      "aliases": [
+        "Decalogul"
+      ],
+      "category": "event",
+      "subcategory": null,
+      "description": "Legea morală dată de Dumnezeu lui Moise pe Muntele Sinai.",
+      "significance": "Fundament al eticii iudeo-creștine și al dreptului natural.",
+      "relatedVerses": [
+        {
+          "book": "Eșirea",
+          "chapter": 20,
+          "verse": 1
+        }
+      ],
+      "relatedEntries": [
+        "moise",
+        "sinai",
+        "tablele_legii"
+      ],
+      "coordinates": null,
+      "timeline": "~1250 î.Hr."
+    },
+    {
+      "id": "cucerirea_canaanului",
+      "name": "Cucerirea Canaanului",
+      "aliases": [],
+      "category": "event",
+      "subcategory": null,
+      "description": "Campania militară a israeliților sub Iosua pentru ocuparea Pământului Făgăduinței.",
+      "significance": "Împlinirea promisiunii făcute lui Avraam.",
+      "relatedVerses": [
+        {
+          "book": "Isus Navi",
+          "chapter": 6,
+          "verse": 2
+        }
+      ],
+      "relatedEntries": [
+        "iosua",
+        "canaan",
+        "ieriho"
+      ],
+      "coordinates": null,
+      "timeline": "~1250 î.Hr."
+    },
+    {
+      "id": "robia_babiloneana",
+      "name": "Robia babiloneană",
+      "aliases": [
+        "Exilul babilonean"
+      ],
+      "category": "event",
+      "subcategory": null,
+      "description": "Deportarea poporului evreu în Babilon după distrugerea Ierusalimului.",
+      "significance": "Perioadă de purificare spirituală care a întărit credința monotheistă.",
+      "relatedVerses": [
+        {
+          "book": "4 Împărați",
+          "chapter": 25,
+          "verse": 1
+        },
+        {
+          "book": "Psalmii",
+          "chapter": 137,
+          "verse": 1
+        }
+      ],
+      "relatedEntries": [
+        "daniel",
+        "iezechiel",
+        "babilon",
+        "ierusalim"
+      ],
+      "coordinates": null,
+      "timeline": "586–539 î.Hr."
+    },
+    {
+      "id": "intoarcerea_din_exil",
+      "name": "Întoarcerea din exil",
+      "aliases": [],
+      "category": "event",
+      "subcategory": null,
+      "description": "Revenirea evreilor din Babilon în Israel după edictul regelui Cirus al Persiei.",
+      "significance": "Restaurarea comunității și reconstrucția Templului.",
+      "relatedVerses": [
+        {
+          "book": "3 Esdra",
+          "chapter": 1,
+          "verse": 1
+        }
+      ],
+      "relatedEntries": [
+        "ezdra",
+        "neemia",
+        "persia"
+      ],
+      "coordinates": null,
+      "timeline": "538 î.Hr."
+    },
+    {
+      "id": "buna_vestire",
+      "name": "Buna Vestire",
+      "aliases": [
+        "Bunavestire"
+      ],
+      "category": "event",
+      "subcategory": null,
+      "description": "Vestirea de către Arhanghelul Gavriil Fecioarei Maria că va naște pe Fiul lui Dumnezeu.",
+      "significance": "Momentul Întrupării, începutul Noului Legământ.",
+      "relatedVerses": [
+        {
+          "book": "Luca",
+          "chapter": 1,
+          "verse": 28
+        }
+      ],
+      "relatedEntries": [
+        "maria",
+        "iisus_hristos",
+        "nazaret"
+      ],
+      "coordinates": null,
+      "timeline": "~5 î.Hr."
+    },
+    {
+      "id": "nasterea_domnului",
+      "name": "Nașterea Domnului",
+      "aliases": [
+        "Crăciunul"
+      ],
+      "category": "event",
+      "subcategory": null,
+      "description": "Nașterea lui Iisus Hristos în Betleem, în ieslea animalelor.",
+      "significance": "Dumnezeu se face om pentru mântuirea lumii.",
+      "relatedVerses": [
+        {
+          "book": "Luca",
+          "chapter": 2,
+          "verse": 7
+        },
+        {
+          "book": "Matei",
+          "chapter": 1,
+          "verse": 25
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos",
+        "maria",
+        "betleem"
+      ],
+      "coordinates": null,
+      "timeline": "~4 î.Hr."
+    },
+    {
+      "id": "botezul_lui_iisus",
+      "name": "Botezul lui Iisus",
+      "aliases": [
+        "Boboteaza"
+      ],
+      "category": "event",
+      "subcategory": null,
+      "description": "Botezul lui Iisus de către Ioan în râul Iordan, când Duhul Sfânt S-a pogorât ca porumbel.",
+      "significance": "Revelarea Sfintei Treimi și începutul activității publice a lui Iisus.",
+      "relatedVerses": [
+        {
+          "book": "Matei",
+          "chapter": 3,
+          "verse": 16
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos",
+        "ioan_botezatorul",
+        "iordan"
+      ],
+      "coordinates": null,
+      "timeline": "~29 d.Hr."
+    },
+    {
+      "id": "schimbarea_la_fata",
+      "name": "Schimbarea la Față",
+      "aliases": [
+        "Transfigurarea"
+      ],
+      "category": "event",
+      "subcategory": null,
+      "description": "Momentul în care Iisus a arătat slava Sa divină pe munte, în prezența lui Moise și Ilie.",
+      "significance": "Confirmarea dumnezeirii lui Hristos înaintea Patimilor.",
+      "relatedVerses": [
+        {
+          "book": "Matei",
+          "chapter": 17,
+          "verse": 2
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos",
+        "tabor",
+        "moise",
+        "ilie"
+      ],
+      "coordinates": null,
+      "timeline": "~32 d.Hr."
+    },
+    {
+      "id": "cina_cea_de_taina",
+      "name": "Cina cea de Taină",
+      "aliases": [
+        "Ultima Cină"
+      ],
+      "category": "event",
+      "subcategory": null,
+      "description": "Ultima masă a lui Iisus cu apostolii, când a instituit Euharistia.",
+      "significance": "Instituirea Sfintei Împărtășanii, centrul cultului creștin.",
+      "relatedVerses": [
+        {
+          "book": "Matei",
+          "chapter": 26,
+          "verse": 26
+        },
+        {
+          "book": "Luca",
+          "chapter": 22,
+          "verse": 19
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos",
+        "euharistia",
+        "ierusalim"
+      ],
+      "coordinates": null,
+      "timeline": "~33 d.Hr."
+    },
+    {
+      "id": "rastignirea",
+      "name": "Răstignirea",
+      "aliases": [
+        "Patimile",
+        "Crucificarea"
+      ],
+      "category": "event",
+      "subcategory": null,
+      "description": "Moartea lui Iisus Hristos pe cruce pe dealul Golgota.",
+      "significance": "Jertfa supremă pentru iertarea păcatelor lumii.",
+      "relatedVerses": [
+        {
+          "book": "Matei",
+          "chapter": 27,
+          "verse": 35
+        },
+        {
+          "book": "Ioan",
+          "chapter": 19,
+          "verse": 30
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos",
+        "golgota",
+        "crucea",
+        "pilat"
+      ],
+      "coordinates": null,
+      "timeline": "~33 d.Hr."
+    },
+    {
+      "id": "invierea",
+      "name": "Învierea",
+      "aliases": [
+        "Paștele",
+        "Învierea Domnului"
+      ],
+      "category": "event",
+      "subcategory": null,
+      "description": "Învierea lui Iisus Hristos din morți în a treia zi după Răstignire.",
+      "significance": "Evenimentul central al credinței creștine, biruința asupra morții.",
+      "relatedVerses": [
+        {
+          "book": "Matei",
+          "chapter": 28,
+          "verse": 6
+        },
+        {
+          "book": "1 Corinteni",
+          "chapter": 15,
+          "verse": 14
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos",
+        "maria_magdalena"
+      ],
+      "coordinates": null,
+      "timeline": "~33 d.Hr."
+    },
+    {
+      "id": "inaltarea",
+      "name": "Înălțarea",
+      "aliases": [
+        "Înălțarea Domnului"
+      ],
+      "category": "event",
+      "subcategory": null,
+      "description": "Ridicarea lui Iisus la cer, la patruzeci de zile după Înviere, de pe Muntele Măslinilor.",
+      "significance": "Completarea misiunii pământești a lui Hristos și promisiunea revenirii.",
+      "relatedVerses": [
+        {
+          "book": "Faptele Apostolilor",
+          "chapter": 1,
+          "verse": 9
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos",
+        "maslinilor"
+      ],
+      "coordinates": null,
+      "timeline": "~33 d.Hr."
+    },
+    {
+      "id": "pogorarea_duhului_sfant",
+      "name": "Pogorârea Duhului Sfânt",
+      "aliases": [
+        "Cincizecimea",
+        "Rusaliile"
+      ],
+      "category": "event",
+      "subcategory": null,
+      "description": "Coborârea Duhului Sfânt asupra apostolilor la cincizeci de zile după Paști.",
+      "significance": "Nașterea Bisericii creștine și primirea puterii de a propovădui.",
+      "relatedVerses": [
+        {
+          "book": "Faptele Apostolilor",
+          "chapter": 2,
+          "verse": 1
+        }
+      ],
+      "relatedEntries": [
+        "petru",
+        "ierusalim",
+        "duh_sfant"
+      ],
+      "coordinates": null,
+      "timeline": "~33 d.Hr."
+    },
+    {
+      "id": "conversia_lui_pavel",
+      "name": "Conversia lui Pavel",
+      "aliases": [
+        "Drumul Damascului"
+      ],
+      "category": "event",
+      "subcategory": null,
+      "description": "Întâlnirea lui Saul cu Hristos înviat pe drumul spre Damasc, care l-a transformat în apostol.",
+      "significance": "Cea mai faimoasă convertire din istorie, dovadă a harului transformator.",
+      "relatedVerses": [
+        {
+          "book": "Faptele Apostolilor",
+          "chapter": 9,
+          "verse": 3
+        }
+      ],
+      "relatedEntries": [
+        "pavel",
+        "damasc"
+      ],
+      "coordinates": null,
+      "timeline": "~34 d.Hr."
+    },
+    {
+      "id": "jertfa_lui_isaac",
+      "name": "Jertfa lui Isaac",
+      "aliases": [
+        "Legarea lui Isaac",
+        "Akeda"
+      ],
+      "category": "event",
+      "subcategory": null,
+      "description": "Încercarea lui Avraam de către Dumnezeu, care i-a cerut să-l aducă jertfă pe Isaac.",
+      "significance": "Suprema probă de credință și prefigurare a jertfei lui Hristos.",
+      "relatedVerses": [
+        {
+          "book": "Facerea",
+          "chapter": 22,
+          "verse": 2
+        }
+      ],
+      "relatedEntries": [
+        "avraam",
+        "isaac"
+      ],
+      "coordinates": null,
+      "timeline": "~1900 î.Hr."
+    },
+    {
+      "id": "legamant",
+      "name": "Legământ",
+      "aliases": [
+        "Alianță"
+      ],
+      "category": "concept",
+      "subcategory": null,
+      "description": "Acordul solemn între Dumnezeu și poporul Său, baza relației dintre ei.",
+      "significance": "Structura fundamentală a relației divine-umane, de la Noe până la Hristos.",
+      "relatedVerses": [
+        {
+          "book": "Facerea",
+          "chapter": 9,
+          "verse": 13
+        },
+        {
+          "book": "Ieremia",
+          "chapter": 31,
+          "verse": 31
+        }
+      ],
+      "relatedEntries": [
+        "avraam",
+        "moise",
+        "cina_cea_de_taina"
+      ],
+      "coordinates": null,
+      "timeline": null
+    },
+    {
+      "id": "har",
+      "name": "Har",
+      "aliases": [
+        "Harul divin"
+      ],
+      "category": "concept",
+      "subcategory": null,
+      "description": "Darul nemeritat al lui Dumnezeu oferit oamenilor pentru mântuire.",
+      "significance": "Fundament al teologiei creștine, salvarea vine prin har, nu prin merite proprii.",
+      "relatedVerses": [
+        {
+          "book": "Efeseni",
+          "chapter": 2,
+          "verse": 8
+        }
+      ],
+      "relatedEntries": [
+        "mantuire",
+        "credinta"
+      ],
+      "coordinates": null,
+      "timeline": null
+    },
+    {
+      "id": "credinta",
+      "name": "Credință",
+      "aliases": [],
+      "category": "concept",
+      "subcategory": null,
+      "description": "Încrederea totală în Dumnezeu și în promisiunile Sale, chiar fără dovezi vizibile.",
+      "significance": "Mijlocul prin care omul primește harul divin.",
+      "relatedVerses": [
+        {
+          "book": "Evrei",
+          "chapter": 11,
+          "verse": 1
+        },
+        {
+          "book": "Romani",
+          "chapter": 1,
+          "verse": 17
+        }
+      ],
+      "relatedEntries": [
+        "har",
+        "mantuire",
+        "avraam"
+      ],
+      "coordinates": null,
+      "timeline": null
+    },
+    {
+      "id": "mantuire",
+      "name": "Mântuire",
+      "aliases": [
+        "Salvare",
+        "Izbăvire"
+      ],
+      "category": "concept",
+      "subcategory": null,
+      "description": "Eliberarea omului de sub puterea păcatului și a morții prin jertfa lui Hristos.",
+      "significance": "Scopul întregii istorii biblice, de la Facere la Apocalipsă.",
+      "relatedVerses": [
+        {
+          "book": "Ioan",
+          "chapter": 3,
+          "verse": 16
+        },
+        {
+          "book": "Romani",
+          "chapter": 6,
+          "verse": 23
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos",
+        "har",
+        "credinta"
+      ],
+      "coordinates": null,
+      "timeline": null
+    },
+    {
+      "id": "botez",
+      "name": "Botez",
+      "aliases": [
+        "Taina Botezului"
+      ],
+      "category": "concept",
+      "subcategory": null,
+      "description": "Taina prin care omul se naște spiritual și devine membru al Bisericii.",
+      "significance": "Ușa de intrare în viața creștină, moarte și înviere cu Hristos.",
+      "relatedVerses": [
+        {
+          "book": "Matei",
+          "chapter": 28,
+          "verse": 19
+        },
+        {
+          "book": "Romani",
+          "chapter": 6,
+          "verse": 4
+        }
+      ],
+      "relatedEntries": [
+        "botezul_lui_iisus",
+        "iordan"
+      ],
+      "coordinates": null,
+      "timeline": null
+    },
+    {
+      "id": "euharistia",
+      "name": "Euharistia",
+      "aliases": [
+        "Împărtășania",
+        "Sfânta Cuminecătură"
+      ],
+      "category": "concept",
+      "subcategory": null,
+      "description": "Taina prin care pâinea și vinul devin Trupul și Sângele lui Hristos.",
+      "significance": "Centrul vieții liturgice creștine, unirea cu Hristos.",
+      "relatedVerses": [
+        {
+          "book": "Matei",
+          "chapter": 26,
+          "verse": 26
+        },
+        {
+          "book": "1 Corinteni",
+          "chapter": 11,
+          "verse": 24
+        }
+      ],
+      "relatedEntries": [
+        "cina_cea_de_taina",
+        "iisus_hristos"
+      ],
+      "coordinates": null,
+      "timeline": null
+    },
+    {
+      "id": "inviere_concept",
+      "name": "Înviere",
+      "aliases": [
+        "Învierea morților"
+      ],
+      "category": "concept",
+      "subcategory": null,
+      "description": "Readucerea la viață a trupului, așteptată la sfârșitul veacurilor.",
+      "significance": "Speranța centrală a credinței creștine, confirmată de Învierea lui Hristos.",
+      "relatedVerses": [
+        {
+          "book": "1 Corinteni",
+          "chapter": 15,
+          "verse": 42
+        },
+        {
+          "book": "Ioan",
+          "chapter": 11,
+          "verse": 25
+        }
+      ],
+      "relatedEntries": [
+        "invierea",
+        "iisus_hristos"
+      ],
+      "coordinates": null,
+      "timeline": null
+    },
+    {
+      "id": "profetie",
+      "name": "Profetie",
+      "aliases": [],
+      "category": "concept",
+      "subcategory": null,
+      "description": "Mesaj divin transmis prin profeți, adesea despre evenimente viitoare.",
+      "significance": "Confirmă planul divin și autenticitatea revelației biblice.",
+      "relatedVerses": [
+        {
+          "book": "2 Petru",
+          "chapter": 1,
+          "verse": 21
+        }
+      ],
+      "relatedEntries": [
+        "isaia",
+        "ieremia"
+      ],
+      "coordinates": null,
+      "timeline": null
+    },
+    {
+      "id": "parabola",
+      "name": "Parabolă",
+      "aliases": [],
+      "category": "concept",
+      "subcategory": null,
+      "description": "Poveste cu învățătură morală sau spirituală, metoda preferată de învățare a lui Iisus.",
+      "significance": "Revelează tainele Împărăției lui Dumnezeu în limbaj accesibil.",
+      "relatedVerses": [
+        {
+          "book": "Matei",
+          "chapter": 13,
+          "verse": 34
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos",
+        "imparatia_lui_dumnezeu"
+      ],
+      "coordinates": null,
+      "timeline": null
+    },
+    {
+      "id": "rugaciune",
+      "name": "Rugăciune",
+      "aliases": [],
+      "category": "concept",
+      "subcategory": null,
+      "description": "Comunicarea directă a omului cu Dumnezeu prin laudă, cerere și mulțumire.",
+      "significance": "Respirația vieții spirituale și mijlocul principal de relație cu Dumnezeu.",
+      "relatedVerses": [
+        {
+          "book": "Matei",
+          "chapter": 6,
+          "verse": 9
+        },
+        {
+          "book": "1 Tesaloniceni",
+          "chapter": 5,
+          "verse": 17
+        }
+      ],
+      "relatedEntries": [],
+      "coordinates": null,
+      "timeline": null
+    },
+    {
+      "id": "pocainta",
+      "name": "Pocăință",
+      "aliases": [
+        "Metanoia"
+      ],
+      "category": "concept",
+      "subcategory": null,
+      "description": "Schimbarea radicală a minții și a inimii, întoarcerea de la păcat la Dumnezeu.",
+      "significance": "Condiție esențială a mântuirii, primul pas al vieții creștine.",
+      "relatedVerses": [
+        {
+          "book": "Matei",
+          "chapter": 3,
+          "verse": 2
+        },
+        {
+          "book": "Faptele Apostolilor",
+          "chapter": 2,
+          "verse": 38
+        }
+      ],
+      "relatedEntries": [
+        "ioan_botezatorul"
+      ],
+      "coordinates": null,
+      "timeline": null
+    },
+    {
+      "id": "duh_sfant",
+      "name": "Duh Sfânt",
+      "aliases": [
+        "Sfântul Duh",
+        "Mângâietorul",
+        "Paraclet"
+      ],
+      "category": "concept",
+      "subcategory": null,
+      "description": "A treia Persoană a Sfintei Treimi, Dumnezeu prezent și lucrător în lume și în Biserică.",
+      "significance": "Sursă de putere, înțelepciune și sfințire pentru credincioși.",
+      "relatedVerses": [
+        {
+          "book": "Ioan",
+          "chapter": 14,
+          "verse": 26
+        },
+        {
+          "book": "Faptele Apostolilor",
+          "chapter": 2,
+          "verse": 4
+        }
+      ],
+      "relatedEntries": [
+        "pogorarea_duhului_sfant"
+      ],
+      "coordinates": null,
+      "timeline": null
+    },
+    {
+      "id": "imparatia_lui_dumnezeu",
+      "name": "Împărăția lui Dumnezeu",
+      "aliases": [
+        "Împărăția cerurilor"
+      ],
+      "category": "concept",
+      "subcategory": null,
+      "description": "Domnia lui Dumnezeu în inimi și în lume, tema centrală a predicii lui Iisus.",
+      "significance": "Scopul final al istoriei, prezentă și viitoare în același timp.",
+      "relatedVerses": [
+        {
+          "book": "Matei",
+          "chapter": 6,
+          "verse": 33
+        },
+        {
+          "book": "Luca",
+          "chapter": 17,
+          "verse": 21
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos",
+        "parabola"
+      ],
+      "coordinates": null,
+      "timeline": null
+    },
+    {
+      "id": "evanghelie",
+      "name": "Evanghelie",
+      "aliases": [
+        "Vestea Bună"
+      ],
+      "category": "concept",
+      "subcategory": null,
+      "description": "Vestea bună a mântuirii prin Iisus Hristos, consemnată în cele patru Evanghelii.",
+      "significance": "Mesajul central al creștinismului.",
+      "relatedVerses": [
+        {
+          "book": "Marcu",
+          "chapter": 1,
+          "verse": 1
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos"
+      ],
+      "coordinates": null,
+      "timeline": null
+    },
+    {
+      "id": "lege",
+      "name": "Lege",
+      "aliases": [
+        "Legea lui Moise",
+        "Torah"
+      ],
+      "category": "concept",
+      "subcategory": null,
+      "description": "Ansamblul poruncilor date de Dumnezeu prin Moise, fundament al vieții morale.",
+      "significance": "Pedagog spre Hristos, revelație a voinței divine.",
+      "relatedVerses": [
+        {
+          "book": "Eșirea",
+          "chapter": 20,
+          "verse": 1
+        },
+        {
+          "book": "Galateni",
+          "chapter": 3,
+          "verse": 24
+        }
+      ],
+      "relatedEntries": [
+        "moise",
+        "cele_10_porunci"
+      ],
+      "coordinates": null,
+      "timeline": null
+    },
+    {
+      "id": "chivotul_legamantului",
+      "name": "Chivotul Legământului",
+      "aliases": [
+        "Arca Legământului"
+      ],
+      "category": "object",
+      "subcategory": null,
+      "description": "Ladă sfântă care conținea Tablele Legii, toiagul lui Aaron și mana.",
+      "significance": "Simbol al prezenței divine în mijlocul poporului Israel.",
+      "relatedVerses": [
+        {
+          "book": "Eșirea",
+          "chapter": 25,
+          "verse": 10
+        },
+        {
+          "book": "Evrei",
+          "chapter": 9,
+          "verse": 4
+        }
+      ],
+      "relatedEntries": [
+        "tablele_legii",
+        "moise",
+        "cortul_marturiei"
+      ],
+      "coordinates": null,
+      "timeline": "~1250 î.Hr."
+    },
+    {
+      "id": "cortul_marturiei",
+      "name": "Cortul Mărturiei",
+      "aliases": [
+        "Tabernacol",
+        "Cort"
+      ],
+      "category": "object",
+      "subcategory": null,
+      "description": "Sanctuar portabil construit de israeliți în pustie după indicațiile divine.",
+      "significance": "Locul întâlnirii dintre Dumnezeu și poporul Său înainte de construirea Templului.",
+      "relatedVerses": [
+        {
+          "book": "Eșirea",
+          "chapter": 26,
+          "verse": 1
+        }
+      ],
+      "relatedEntries": [
+        "chivotul_legamantului",
+        "moise"
+      ],
+      "coordinates": null,
+      "timeline": "~1250 î.Hr."
+    },
+    {
+      "id": "tablele_legii",
+      "name": "Tablele Legii",
+      "aliases": [
+        "Tablele de piatră"
+      ],
+      "category": "object",
+      "subcategory": null,
+      "description": "Cele două table de piatră pe care Dumnezeu a scris Cele 10 Porunci.",
+      "significance": "Simbolul fizic al Legământului dintre Dumnezeu și Israel.",
+      "relatedVerses": [
+        {
+          "book": "Eșirea",
+          "chapter": 31,
+          "verse": 18
+        }
+      ],
+      "relatedEntries": [
+        "moise",
+        "cele_10_porunci",
+        "chivotul_legamantului"
+      ],
+      "coordinates": null,
+      "timeline": "~1250 î.Hr."
+    },
+    {
+      "id": "toiagul_lui_moise",
+      "name": "Toiagul lui Moise",
+      "aliases": [],
+      "category": "object",
+      "subcategory": null,
+      "description": "Toiagul cu care Moise a făcut minuni: despărțirea Mării Roșii, scoaterea apei din stâncă.",
+      "significance": "Instrument al puterii divine în mâinile profetului.",
+      "relatedVerses": [
+        {
+          "book": "Eșirea",
+          "chapter": 14,
+          "verse": 16
+        },
+        {
+          "book": "Eșirea",
+          "chapter": 17,
+          "verse": 6
+        }
+      ],
+      "relatedEntries": [
+        "moise",
+        "exodul"
+      ],
+      "coordinates": null,
+      "timeline": "~1250 î.Hr."
+    },
+    {
+      "id": "arca_lui_noe",
+      "name": "Arca lui Noe",
+      "aliases": [],
+      "category": "object",
+      "subcategory": null,
+      "description": "Corabia construită de Noe la porunca lui Dumnezeu pentru a supraviețui Potopului.",
+      "significance": "Prefigurare a Bisericii ca mijloc de salvare din potopul păcatului.",
+      "relatedVerses": [
+        {
+          "book": "Facerea",
+          "chapter": 6,
+          "verse": 14
+        }
+      ],
+      "relatedEntries": [
+        "noe",
+        "potopul",
+        "ararat"
+      ],
+      "coordinates": null,
+      "timeline": "~2500 î.Hr."
+    },
+    {
+      "id": "crucea",
+      "name": "Crucea",
+      "aliases": [
+        "Sfânta Cruce"
+      ],
+      "category": "object",
+      "subcategory": null,
+      "description": "Instrumentul Răstignirii lui Iisus, transformat din simbol al rușinii în simbol al biruinței.",
+      "significance": "Simbolul central al creștinismului, prin care vine mântuirea.",
+      "relatedVerses": [
+        {
+          "book": "Matei",
+          "chapter": 27,
+          "verse": 32
+        },
+        {
+          "book": "1 Corinteni",
+          "chapter": 1,
+          "verse": 18
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos",
+        "rastignirea",
+        "golgota"
+      ],
+      "coordinates": null,
+      "timeline": "~33 d.Hr."
+    },
+    {
+      "id": "templul",
+      "name": "Templul din Ierusalim",
+      "aliases": [
+        "Templul lui Solomon",
+        "Beit HaMikdash"
+      ],
+      "category": "object",
+      "subcategory": null,
+      "description": "Sanctuarul central al evreilor în Ierusalim, construit de Solomon și reconstruit de Zorobabel.",
+      "significance": "Locul prezenței divine pe pământ, prefigurare a Trupului lui Hristos.",
+      "relatedVerses": [
+        {
+          "book": "3 Împărați",
+          "chapter": 6,
+          "verse": 1
+        },
+        {
+          "book": "Ioan",
+          "chapter": 2,
+          "verse": 19
+        }
+      ],
+      "relatedEntries": [
+        "solomon",
+        "ierusalim"
+      ],
+      "coordinates": null,
+      "timeline": "~960 î.Hr. – 70 d.Hr."
+    },
+    {
+      "id": "mana",
+      "name": "Mana",
+      "aliases": [
+        "Pâinea din cer"
+      ],
+      "category": "object",
+      "subcategory": null,
+      "description": "Hrana miraculoasă dată de Dumnezeu israeliților în pustie timp de 40 de ani.",
+      "significance": "Prefigurare a Euharistiei, Pâinea Vieții care este Hristos.",
+      "relatedVerses": [
+        {
+          "book": "Eșirea",
+          "chapter": 16,
+          "verse": 15
+        },
+        {
+          "book": "Ioan",
+          "chapter": 6,
+          "verse": 49
+        }
+      ],
+      "relatedEntries": [
+        "moise",
+        "euharistia"
+      ],
+      "coordinates": null,
+      "timeline": "~1250 î.Hr."
+    },
+    {
+      "id": "stalpul_de_foc",
+      "name": "Stâlpul de foc",
+      "aliases": [
+        "Stâlpul de nor"
+      ],
+      "category": "object",
+      "subcategory": null,
+      "description": "Manifestare vizibilă a prezenței divine care a călăuzit israeliții: nor ziua, foc noaptea.",
+      "significance": "Simbol al călăuzirii permanente a lui Dumnezeu.",
+      "relatedVerses": [
+        {
+          "book": "Eșirea",
+          "chapter": 13,
+          "verse": 21
+        }
+      ],
+      "relatedEntries": [
+        "moise",
+        "exodul"
+      ],
+      "coordinates": null,
+      "timeline": "~1250 î.Hr."
+    },
+    {
+      "id": "marea_moarta",
+      "name": "Marea Moartă",
+      "aliases": [
+        "Lacul Asfaltic"
+      ],
+      "category": "place",
+      "subcategory": "water",
+      "description": "Lac sărat la cea mai joasă altitudine de pe Pământ, lângă Sodoma și Gomora.",
+      "significance": "Simbol al judecății divine și al pustiirii.",
+      "relatedVerses": [
+        {
+          "book": "Facerea",
+          "chapter": 19,
+          "verse": 24
+        }
+      ],
+      "relatedEntries": [
+        "sodoma"
+      ],
+      "coordinates": {
+        "latitude": 31.5,
+        "longitude": 35.5
+      },
+      "timeline": null
+    },
+    {
+      "id": "sodoma",
+      "name": "Sodoma",
+      "aliases": [],
+      "category": "place",
+      "subcategory": "city",
+      "description": "Oraș distrus de Dumnezeu din cauza păcatelor grave.",
+      "significance": "Exemplu al judecății divine împotriva nelegiuirii.",
+      "relatedVerses": [
+        {
+          "book": "Facerea",
+          "chapter": 19,
+          "verse": 24
+        }
+      ],
+      "relatedEntries": [
+        "lot",
+        "marea_moarta"
+      ],
+      "coordinates": {
+        "latitude": 31.07,
+        "longitude": 35.39
+      },
+      "timeline": null
+    },
+    {
+      "id": "lot",
+      "name": "Lot",
+      "aliases": [],
+      "category": "person",
+      "subcategory": "patriarch",
+      "description": "Nepotul lui Avraam care a locuit în Sodoma și a fost salvat de la distrugere.",
+      "significance": "Exemplu al salvării celui drept din mijlocul nelegiuirii.",
+      "relatedVerses": [
+        {
+          "book": "Facerea",
+          "chapter": 19,
+          "verse": 16
+        }
+      ],
+      "relatedEntries": [
+        "avraam",
+        "sodoma"
+      ],
+      "coordinates": null,
+      "timeline": "~2000 î.Hr."
+    },
+    {
+      "id": "haran",
+      "name": "Haran",
+      "aliases": [],
+      "category": "place",
+      "subcategory": "city",
+      "description": "Oraș din Mesopotamia unde a locuit Avraam înainte de a merge în Canaan.",
+      "significance": "Stație importantă în călătoria credinței lui Avraam.",
+      "relatedVerses": [
+        {
+          "book": "Facerea",
+          "chapter": 11,
+          "verse": 31
+        }
+      ],
+      "relatedEntries": [
+        "avraam"
+      ],
+      "coordinates": {
+        "latitude": 36.8654,
+        "longitude": 39.0316
+      },
+      "timeline": null
+    },
+    {
+      "id": "galileea",
+      "name": "Galileea",
+      "aliases": [],
+      "category": "place",
+      "subcategory": "region",
+      "description": "Regiunea din nordul Israelului unde Iisus a crescut și Și-a început activitatea.",
+      "significance": "Loc al majorității minunilor și învățăturilor lui Iisus.",
+      "relatedVerses": [
+        {
+          "book": "Matei",
+          "chapter": 4,
+          "verse": 23
+        }
+      ],
+      "relatedEntries": [
+        "nazaret",
+        "capernaum",
+        "iisus_hristos"
+      ],
+      "coordinates": {
+        "latitude": 32.75,
+        "longitude": 35.35
+      },
+      "timeline": null
+    },
+    {
+      "id": "samaria_loc",
+      "name": "Samaria",
+      "aliases": [],
+      "category": "place",
+      "subcategory": "region",
+      "description": "Regiunea dintre Galileea și Iudeea, locuită de samariteni.",
+      "significance": "Locul dialogului lui Iisus cu femeia samariteancă.",
+      "relatedVerses": [
+        {
+          "book": "Ioan",
+          "chapter": 4,
+          "verse": 7
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos"
+      ],
+      "coordinates": {
+        "latitude": 32.2747,
+        "longitude": 35.19
+      },
+      "timeline": null
+    },
+    {
+      "id": "persia",
+      "name": "Persia",
+      "aliases": [
+        "Imperiul Persan"
+      ],
+      "category": "place",
+      "subcategory": "empire",
+      "description": "Imperiul care a permis întoarcerea evreilor din exilul babilonean.",
+      "significance": "Instrument al providenței divine pentru restaurarea lui Israel.",
+      "relatedVerses": [
+        {
+          "book": "3 Esdra",
+          "chapter": 1,
+          "verse": 1
+        }
+      ],
+      "relatedEntries": [
+        "estera",
+        "intoarcerea_din_exil"
+      ],
+      "coordinates": {
+        "latitude": 32.4279,
+        "longitude": 53.688
+      },
+      "timeline": null
+    },
+    {
+      "id": "marea_rosie",
+      "name": "Marea Roșie",
+      "aliases": [],
+      "category": "place",
+      "subcategory": "water",
+      "description": "Marea prin care Dumnezeu a deschis cale israeliților la ieșirea din Egipt.",
+      "significance": "Locul celei mai mari minuni din Vechiul Testament.",
+      "relatedVerses": [
+        {
+          "book": "Eșirea",
+          "chapter": 14,
+          "verse": 21
+        }
+      ],
+      "relatedEntries": [
+        "trecerea_marii_rosii",
+        "moise"
+      ],
+      "coordinates": {
+        "latitude": 27.0,
+        "longitude": 34.0
+      },
+      "timeline": null
+    },
+    {
+      "id": "filipi_loc",
+      "name": "Filipi",
+      "aliases": [],
+      "category": "place",
+      "subcategory": "city",
+      "description": "Prima comunitate creștină din Europa, întemeiată de Pavel.",
+      "significance": "Destinatara uneia dintre cele mai bucuroase epistole ale lui Pavel.",
+      "relatedVerses": [
+        {
+          "book": "Filipeni",
+          "chapter": 1,
+          "verse": 1
+        }
+      ],
+      "relatedEntries": [
+        "pavel"
+      ],
+      "coordinates": {
+        "latitude": 41.0145,
+        "longitude": 24.287
+      },
+      "timeline": null
+    },
+    {
+      "id": "tesalonic_loc",
+      "name": "Tesalonic",
+      "aliases": [
+        "Salonic"
+      ],
+      "category": "place",
+      "subcategory": "city",
+      "description": "Oraș din Macedonia, destinatar al celor două epistole ale lui Pavel.",
+      "significance": "Comunitate creștină exemplară în credință și dragoste.",
+      "relatedVerses": [
+        {
+          "book": "1 Tesaloniceni",
+          "chapter": 1,
+          "verse": 1
+        }
+      ],
+      "relatedEntries": [
+        "pavel"
+      ],
+      "coordinates": {
+        "latitude": 40.6401,
+        "longitude": 22.9444
+      },
+      "timeline": null
+    },
+    {
+      "id": "atena",
+      "name": "Atena",
+      "aliases": [],
+      "category": "place",
+      "subcategory": "city",
+      "description": "Centrul culturii grecești, unde Pavel a predicat pe Areopag.",
+      "significance": "Întâlnirea dintre Evanghelie și filosofia greacă.",
+      "relatedVerses": [
+        {
+          "book": "Faptele Apostolilor",
+          "chapter": 17,
+          "verse": 22
+        }
+      ],
+      "relatedEntries": [
+        "pavel"
+      ],
+      "coordinates": {
+        "latitude": 37.9838,
+        "longitude": 23.7275
+      },
+      "timeline": null
+    },
+    {
+      "id": "hebron",
+      "name": "Hebron",
+      "aliases": [],
+      "category": "place",
+      "subcategory": "city",
+      "description": "Oraș antic unde Avraam a locuit, sediul primei capitale a lui David.",
+      "significance": "Locul peșterii Macpela unde sunt înmormântați patriarhii.",
+      "relatedVerses": [
+        {
+          "book": "Facerea",
+          "chapter": 23,
+          "verse": 19
+        }
+      ],
+      "relatedEntries": [
+        "avraam",
+        "david"
+      ],
+      "coordinates": {
+        "latitude": 31.5326,
+        "longitude": 35.0998
+      },
+      "timeline": null
+    },
+    {
+      "id": "cana",
+      "name": "Cana Galileei",
+      "aliases": [],
+      "category": "place",
+      "subcategory": "village",
+      "description": "Locul primei minuni a lui Iisus - transformarea apei în vin la nuntă.",
+      "significance": "Prima manifestare a puterii divine a lui Iisus.",
+      "relatedVerses": [
+        {
+          "book": "Ioan",
+          "chapter": 2,
+          "verse": 1
+        }
+      ],
+      "relatedEntries": [
+        "iisus_hristos"
+      ],
+      "coordinates": {
+        "latitude": 32.7478,
+        "longitude": 35.3396
+      },
+      "timeline": null
+    }
+  ]
+}

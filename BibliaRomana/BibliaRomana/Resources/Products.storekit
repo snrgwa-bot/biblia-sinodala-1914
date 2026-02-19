@@ -1,0 +1,82 @@
+{
+  "appPolicies" : {
+    "_purpose" : ""
+  },
+  "identifier" : "com.nexubible.BibliaRomana.products",
+  "type" : "com.apple.storekit.configuration",
+  "version" : 4,
+  "settings" : {
+    "_applicationInternalID" : "",
+    "_developerTeamID" : "",
+    "_lastSynchronizedDate" : ""
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21A1B2C3",
+      "localizations" : [
+        {
+          "description" : "Acces la functiile AI ale Bibliei Romane",
+          "displayName" : "Asistent AI Biblic",
+          "locale" : "ro"
+        }
+      ],
+      "name" : "AI Assistant",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "4.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "MONTHLY001",
+          "introductoryOffer" : {
+            "displayPrice" : "0",
+            "internalID" : "FREE_TRIAL_M",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P3D"
+          },
+          "localizations" : [
+            {
+              "description" : "Acces lunar la functiile AI",
+              "displayName" : "AI Lunar",
+              "locale" : "ro"
+            }
+          ],
+          "productID" : "com.nexubible.BibliaRomana.ai.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "AI Monthly",
+          "subscriptionGroupID" : "21A1B2C3",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : []
+        },
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "29.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "YEARLY001",
+          "introductoryOffer" : {
+            "displayPrice" : "0",
+            "internalID" : "FREE_TRIAL_Y",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P3D"
+          },
+          "localizations" : [
+            {
+              "description" : "Acces anual la functiile AI",
+              "displayName" : "AI Anual",
+              "locale" : "ro"
+            }
+          ],
+          "productID" : "com.nexubible.BibliaRomana.ai.yearly",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "AI Yearly",
+          "subscriptionGroupID" : "21A1B2C3",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : []
+        }
+      ]
+    }
+  ]
+}

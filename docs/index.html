@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biblia Sinodala 1914 — Biblia Ortodoxa Romana</title>
+    <meta name="description" content="Biblia Ortodoxa Sinodala 1914 completa, cu asistent AI, enciclopedie biblica, harta interactiva si cronologie.">
+    <style>
+        :root {
+            --brown: #664d33;
+            --brown-light: #8a6d4a;
+            --brown-dark: #4a3520;
+            --parchment: #f5efe3;
+            --parchment-dark: #ebe3d2;
+            --text: #2a1f14;
+            --text-light: #6b5e4f;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Georgia', 'Times New Roman', serif;
+            color: var(--text);
+            background: var(--parchment);
+            line-height: 1.6;
+        }
+
+        .hero {
+            background: linear-gradient(135deg, var(--brown-dark), var(--brown));
+            color: var(--parchment);
+            text-align: center;
+            padding: 80px 20px 60px;
+        }
+
+        .hero h1 {
+            font-size: 2.5em;
+            margin-bottom: 12px;
+            letter-spacing: 0.02em;
+        }
+
+        .hero .subtitle {
+            font-size: 1.2em;
+            opacity: 0.85;
+            font-style: italic;
+            margin-bottom: 30px;
+        }
+
+        .hero .badge {
+            display: inline-block;
+            background: rgba(255,255,255,0.15);
+            border: 1px solid rgba(255,255,255,0.3);
+            border-radius: 20px;
+            padding: 8px 20px;
+            font-size: 0.9em;
+            margin-bottom: 30px;
+        }
+
+        .app-store-btn {
+            display: inline-block;
+            background: #000;
+            color: #fff;
+            text-decoration: none;
+            padding: 14px 32px;
+            border-radius: 12px;
+            font-size: 1.1em;
+            font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+            transition: transform 0.2s;
+        }
+
+        .app-store-btn:hover {
+            transform: scale(1.05);
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .features {
+            padding: 60px 20px;
+        }
+
+        .features h2 {
+            text-align: center;
+            font-size: 1.8em;
+            margin-bottom: 40px;
+            color: var(--brown-dark);
+        }
+
+        .feature-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+            gap: 24px;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .feature-card {
+            background: white;
+            border-radius: 14px;
+            padding: 28px;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+            border: 1px solid var(--parchment-dark);
+        }
+
+        .feature-card .icon {
+            font-size: 2em;
+            margin-bottom: 12px;
+        }
+
+        .feature-card h3 {
+            font-size: 1.1em;
+            margin-bottom: 8px;
+            color: var(--brown-dark);
+        }
+
+        .feature-card p {
+            font-size: 0.95em;
+            color: var(--text-light);
+        }
+
+        .section-alt {
+            background: white;
+            padding: 60px 20px;
+        }
+
+        .section-alt h2 {
+            text-align: center;
+            font-size: 1.8em;
+            margin-bottom: 16px;
+            color: var(--brown-dark);
+        }
+
+        .section-alt p {
+            text-align: center;
+            max-width: 600px;
+            margin: 0 auto 30px;
+            color: var(--text-light);
+        }
+
+        .pricing {
+            display: flex;
+            justify-content: center;
+            gap: 24px;
+            flex-wrap: wrap;
+        }
+
+        .price-card {
+            background: var(--parchment);
+            border-radius: 14px;
+            padding: 30px;
+            text-align: center;
+            min-width: 200px;
+            border: 2px solid transparent;
+        }
+
+        .price-card.featured {
+            border-color: var(--brown);
+            position: relative;
+        }
+
+        .price-card.featured::before {
+            content: 'Economisesti 50%';
+            position: absolute;
+            top: -12px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: #2d8a4e;
+            color: white;
+            font-size: 0.75em;
+            padding: 4px 14px;
+            border-radius: 20px;
+            font-family: -apple-system, sans-serif;
+        }
+
+        .price-card h3 {
+            font-size: 1.2em;
+            margin-bottom: 8px;
+        }
+
+        .price-card .price {
+            font-size: 2em;
+            font-weight: bold;
+            color: var(--brown-dark);
+        }
+
+        .price-card .period {
+            color: var(--text-light);
+            font-size: 0.9em;
+            margin-bottom: 12px;
+        }
+
+        .price-card .trial {
+            font-size: 0.85em;
+            color: var(--brown-light);
+        }
+
+        footer {
+            background: var(--brown-dark);
+            color: var(--parchment);
+            text-align: center;
+            padding: 40px 20px;
+        }
+
+        footer a {
+            color: var(--parchment);
+            opacity: 0.8;
+            text-decoration: none;
+            margin: 0 12px;
+        }
+
+        footer a:hover {
+            opacity: 1;
+        }
+
+        footer .links {
+            margin-bottom: 16px;
+        }
+
+        footer .copy {
+            opacity: 0.5;
+            font-size: 0.85em;
+        }
+
+        @media (max-width: 600px) {
+            .hero h1 { font-size: 1.8em; }
+            .hero .subtitle { font-size: 1em; }
+            .feature-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="hero">
+    <div class="container">
+        <div class="badge">iOS &amp; iPadOS</div>
+        <h1>Biblia Sinodala 1914</h1>
+        <p class="subtitle">Biblia Ortodoxa Romana cu Asistent AI, Enciclopedie si Harta Biblica</p>
+        <a href="#" class="app-store-btn">Descarca din App Store</a>
+    </div>
+</div>
+
+<div class="features">
+    <div class="container">
+        <h2>Functionalitati</h2>
+        <div class="feature-grid">
+            <div class="feature-card">
+                <div class="icon">&#128214;</div>
+                <h3>76 de Carti Complete</h3>
+                <p>Biblia Ortodoxa Sinodala completa, editia Sfantului Sinod din 1914. Navigare rapida pe carti, capitole si versete.</p>
+            </div>
+            <div class="feature-card">
+                <div class="icon">&#10024;</div>
+                <h3>Asistent AI Biblic</h3>
+                <p>Explicatii versete, dictionar biblic, rezumate capitole si perspective personaje — totul alimentat de inteligenta artificiala.</p>
+            </div>
+            <div class="feature-card">
+                <div class="icon">&#128218;</div>
+                <h3>Enciclopedie Biblica</h3>
+                <p>Peste 100 de articole despre persoane, locuri, evenimente si concepte biblice cu versete de referinta.</p>
+            </div>
+            <div class="feature-card">
+                <div class="icon">&#128506;</div>
+                <h3>Harta Biblica Interactiva</h3>
+                <p>Localizare pe harta a locurilor biblice importante cu navigare directa la versete relevante.</p>
+            </div>
+            <div class="feature-card">
+                <div class="icon">&#128200;</div>
+                <h3>Vizualizare Avansata</h3>
+                <p>Progres de citire, harta de caldura, cronologie biblica si vizualizare adnotari.</p>
+            </div>
+            <div class="feature-card">
+                <div class="icon">&#128221;</div>
+                <h3>Adnotari Personale</h3>
+                <p>Evidentieri color, note scrise pe fiecare verset si partajare versete.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="section-alt">
+    <div class="container">
+        <h2>Abonament Premium</h2>
+        <p>Deblocheaza puterea inteligentei artificiale pentru studiul Bibliei. Incepe cu 3 zile gratuit.</p>
+        <div class="pricing">
+            <div class="price-card featured">
+                <h3>Anual</h3>
+                <div class="price">$29.99</div>
+                <div class="period">/an ($2.50/luna)</div>
+                <div class="trial">3 zile gratuit</div>
+            </div>
+            <div class="price-card">
+                <h3>Lunar</h3>
+                <div class="price">$4.99</div>
+                <div class="period">/luna</div>
+                <div class="trial">3 zile gratuit</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer>
+    <div class="links">
+        <a href="privacy.html">Politica de Confidentialitate</a>
+        <a href="support.html">Suport</a>
+    </div>
+    <div class="copy">&copy; 2026 Dumitru Bumbu. Toate drepturile rezervate.</div>
+</footer>
+
+</body>
+</html>
