@@ -125,7 +125,7 @@ Biblia Ortodoxă Sinodală, Ediția Sfântului Sinod, 1914 — text din domeniul
 ABONAMENT PREMIUM
 Funcțiile AI și Vizualizarea avansată necesită un abonament opțional:
 • Lunar: $4.99/lună
-• Anual: $29.99/an (economisești 50%)
+• Anual: $39.99/an (economisești 33%)
 • 3 zile de încercare gratuită
 Abonamentul se reînnoiește automat. Poți anula oricând din Setări > Apple ID > Abonamente.
 
@@ -187,7 +187,7 @@ The AI features use the Google Gemini API. To test AI features:
 SUBSCRIPTION:
 The app offers optional auto-renewable subscriptions for AI and Visualization features:
 - Monthly: $4.99/month with 3-day free trial
-- Yearly: $29.99/year with 3-day free trial
+- Yearly: $39.99/year with 3-day free trial
 
 BIBLE TEXT SOURCE:
 The Bible text is from "Biblia Ortodoxă Sinodală, Ediția Sfântului Sinod, 1914" — a public domain text available at archive.org.
@@ -278,7 +278,7 @@ The Bible text is from "Biblia Ortodoxă Sinodală, Ediția Sfântului Sinod, 19
 | **Reference Name** | `AI Yearly` |
 | **Product ID** | `com.nexubible.BibliaRomana.ai.yearly` |
 | **Duration** | 1 Year |
-| **Price** | $29.99 (closest tier) |
+| **Price** | $39.99 (closest tier) |
 | **Display Name** | `AI Anual` |
 | **Description** | `Acces anual la funcțiile AI și vizualizare` |
 | **Introductory Offer** | Free Trial — 3 Days |

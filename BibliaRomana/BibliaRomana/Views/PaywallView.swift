@@ -85,9 +85,9 @@ struct PaywallView: View {
                             // Fallback card when products not loaded
                             fallbackCard(
                                 label: "Anual",
-                                price: "$29.99/an",
-                                detail: "$2.50/lun\u{0103}",
-                                badge: "Economise\u{0219}ti 50%",
+                                price: "$39.99/an",
+                                detail: "$3.33/lun\u{0103}",
+                                badge: "Economise\u{0219}ti 33%",
                                 isSelected: selectedPlan == "yearly",
                                 onTap: { selectedPlan = "yearly" }
                             )
