@@ -232,7 +232,24 @@
             .hero .subtitle { font-size: 1em; }
             .feature-grid { grid-template-columns: 1fr; }
         }
-    </style>
+    
+        /* ===== Ecrane mari / Large displays =====
+           The shell was pinned at 900px, which on a 2560px monitor reads as a
+           narrow column adrift in empty space. Widen the shell AND scale the
+           root font size, so type, spacing and imagery all grow together —
+           widening alone just stretches the gaps. Body copy blocks keep their
+           own measure so line length stays readable. */
+        @media (min-width: 1500px) {
+            :root { font-size: 17.5px; }
+            .container, .feature-grid { max-width: 1240px; }
+            .section-alt p { max-width: 62ch; }
+        }
+        @media (min-width: 2000px) {
+            :root { font-size: 19px; }
+            .container, .feature-grid { max-width: 1460px; }
+            .section-alt p { max-width: 64ch; }
+        }
+</style>
 </head>
 <body>
 

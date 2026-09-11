@@ -48,7 +48,21 @@
             margin-bottom: 24px;
         }
         .summary p { margin: 0; }
-    </style>
+    
+        /* ===== Ecrane mari / Large displays =====
+           Scale the root font size so the page grows with the display instead of
+           shrinking into it. The prose column keeps a narrow measure on purpose —
+           long legal text run to the full window width is worse than the
+           original problem. */
+        @media (min-width: 1500px) {
+            :root { font-size: 17.5px; }
+            .content { max-width: 66ch; }
+        }
+        @media (min-width: 2000px) {
+            :root { font-size: 19px; }
+            .content { max-width: 68ch; }
+        }
+</style>
 </head>
 <body>
 
